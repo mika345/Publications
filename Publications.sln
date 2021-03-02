@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "publications", "publications\", "{3867A161-B991-4BF2-9842-8DB5D5682F29}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54687"
+		Debug.AspNetCompiler.PhysicalPath = "publications\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54687\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54687"
+		Release.AspNetCompiler.PhysicalPath = "publications\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54687\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54687"
+		SlnRelativePath = "publications\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublicationsWebService", "PublicationsWebService\PublicationsWebService.csproj", "{15BE3AC6-E98B-44A7-B4C9-D9F7D4B9B672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3867A161-B991-4BF2-9842-8DB5D5682F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3867A161-B991-4BF2-9842-8DB5D5682F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3867A161-B991-4BF2-9842-8DB5D5682F29}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3867A161-B991-4BF2-9842-8DB5D5682F29}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{15BE3AC6-E98B-44A7-B4C9-D9F7D4B9B672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BE3AC6-E98B-44A7-B4C9-D9F7D4B9B672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BE3AC6-E98B-44A7-B4C9-D9F7D4B9B672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BE3AC6-E98B-44A7-B4C9-D9F7D4B9B672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AC985C1-E23C-4960-B20A-31B422ABAB21}
+	EndGlobalSection
+EndGlobal
