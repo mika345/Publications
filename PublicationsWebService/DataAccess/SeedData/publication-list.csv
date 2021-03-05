@@ -1,0 +1,929 @@
+PublicationID,PublicationType,Title,Authors,CreationDate
+1,Books & Book Chapters/ Livres et Chapitres,CanmetMINING Mineral Processing Capabilities - Canadian Milling Practices 2020,"Rory Cameron, Janice Zinck",2021-02-19
+2,Books & Book Chapters/ Livres et Chapitres,Novel approaches for the extraction of actinides as a by-product in the mining industry.,Laurence Whitty Leveill√©,2019-02-27
+3,Books & Book Chapters/ Livres et Chapitres,An Overview of New Developments in Shale Gas: Induced Seismicity Aspect,"Nadia Shafie Zadeh, Shahriar Tablebi",2018-03-21
+4,Books & Book Chapters/ Livres et Chapitres,GEOCHEMICAL properties OF Cu-Ni TAILINGS under three distinct revegetation practices ,Suzanne Beauchemin,2017-03-13
+5,Books & Book Chapters/ Livres et Chapitres,Observations on the Data from the Preparation of Certified Reference Materials and Proficiency Testing Program - Mineral Analysis Laboratories (PTP-MAL) at CCRMP,"Leaver, Maureen",2015-02-04
+6,Consultant Report/ Raport de consultant,TEA of REE Electrowinning,Kevin Watson (KPM),2021-02-16
+7,Consultant Report/ Raport de consultant,Maclean Engineering Diesel and Battery Electric Powered Cassette Report,"John Le, Ahmad Mohsenimanesh",2021-02-15
+8,Consultant Report/ Raport de consultant,"Material of Construction for RE Acid Baking Rotary Kiln, Off-gas System and other Auxiliary Equipment - a Review","Delin Li (CMAT), Kumar Sadayappan (CMAT), Li Yan (CMAT)",2021-01-18
+9,Consultant Report/ Raport de consultant,Review: Flue Gas Corrosion and Corrosion Testing of Exhaust Off-Gas System for Rare Earth Acid Baking Rotary Kiln,Xin Pang (CMAT) and Yimin Zeng (CMAT),2021-01-18
+10,Consultant Report/ Raport de consultant,Review: Resistance of Metallic Materials to Uniform Corrosion in Sulphuric Acid,Haiou Jin (CMAT),2021-01-18
+11,Consultant Report/ Raport de consultant,LCA of REE Processing,"Robert Pell (Minviro), Phoebe Whattoff (Minviro)",2021-01-08
+12,Consultant Report/ Raport de consultant,NRCan REE Ore Deposit Sortability Report on Ashram,"David Turner (MineSense), Hoda Bagheri (MineSense)",2021-01-07
+13,Consultant Report/ Raport de consultant,ON THE ELECTROWINNING OF DIDYMIUM ALLOY,"Daniel Calabretta, William Courchesne, and Boyd Davis (Kingston Process Metallurgy)",2020-11-20
+14,Consultant Report/ Raport de consultant,Experimental Determination of Separating Factors for REE Solvent Extraction ,"Baodong Zhao, Saskatchewan Research Council",2020-10-19
+15,Consultant Report/ Raport de consultant,"Neodymium, Preasodymium and Didymium metal production from ores ‚Äì a literature review",Kingston Process Metallurgy (KPM),2020-04-20
+16,Consultant Report/ Raport de consultant,Experimental determination of solubility of REE sulphates in sulphuric acid media,Saskatchewan Research Council,2020-03-31
+17,Consultant Report/ Raport de consultant,Review of Climate Change Adaptation in the Mining Industry,SRK Consulting Canada,2020-03-31
+18,Consultant Report/ Raport de consultant,Literature Review on the Solubility of Rare Earth Sulphates,CERCL Ltd. (U of T),2020-01-08
+19,Consultant Report/ Raport de consultant,"Toxicity of REE to Chironomus dilutus, Neocloeon triangulifer and Sphaerium sp.",Nautilus,2019-12-19
+20,Consultant Report/ Raport de consultant,Application of Supercritical Fluid Extraction to Extract and Recover Rare Earth Elements,CERCL Ltd. (U of T),2019-12-11
+21,Consultant Report/ Raport de consultant,Toxicity of REE in sediment exposures to Hyalella azteca and Chironomus tentans,Nautilus,2019-12-11
+22,Consultant Report/ Raport de consultant,Literature review: Physical separation of REE bearing minerals,neoCtech,2019-09-30
+23,Consultant Report/ Raport de consultant,Comparison of REE Acid Baking in Rotary Kiln and Fluidized Bed Reactor,Kingston Process Metallurgy Inc.,2019-08-29
+24,Consultant Report/ Raport de consultant,Experimental Determination of Solubility of Rare Earth Sulphates: Follow-up Studies,CERCL Ltd. (U of T),2019-07-18
+25,Consultant Report/ Raport de consultant,Review of recent work on the recovery of REE from Secondary Sources,INRS - UQAT,2019-07-10
+26,Consultant Report/ Raport de consultant,2018-19 Report on SMC to ISO/TC298 Rare Earth,CSA Group,2019-06-26
+27,Consultant Report/ Raport de consultant,Recent Progress in Impurity Removal During REE Processing: Literature Review,CERCL Ltd. (U of T),2019-06-20
+28,Consultant Report/ Raport de consultant,Updated Literature Review on Acid Baking and Leaching for REE,CERCL Ltd.,2019-06-20
+29,Consultant Report/ Raport de consultant,Benchmarking of REE Separation in Canada,Laval University,2019-06-19
+30,Consultant Report/ Raport de consultant,NRCan-5000033217 Second Pilot Smelting Campaign of Ring of Fire Chromite Ore,SPS Expert Process Solutions,2019-06-19
+31,Consultant Report/ Raport de consultant,REE Processing Reagent Regeneration Review,Kingston Process Metallurgy Inc.,2019-06-19
+32,Consultant Report/ Raport de consultant,Standardized Method for Dynamic Pull Testing of Rockbolts Suggested to the ISRM,"Ren√©e Royer , Devan MacDonald",2019-06-05
+33,Consultant Report/ Raport de consultant,Water Balance Model for a Mineral Processing Plant ,Saviz Mortazavi,2019-03-28
+34,Consultant Report/ Raport de consultant,Technico-economic Assessment Study for Production of Bioenergy at Vale,ABRI-Tech,2018-05-01
+35,Consultant Report/ Raport de consultant,"Review and Analysis of International Experiences in Chromite Mining and Ferrochrome Production, and Implications for the Development of Canadian Deposits",Hatch,2016-06-15
+36,Consultant Report/ Raport de consultant,Summary and Analysis of the Current State of Developments for the Exploitation of the Ring of Fire Deposits and Opportunities for Downstream Value ,Hatch,2016-06-15
+37,Consultant Report/ Raport de consultant,"The State of Global Rare Earths Industry: A review of market, production, processing and associated environmental issues",NRC,2016-05-25
+38,Consultant Report/ Raport de consultant,North American Chromite and Ferrochrome Market Study,Hatch,2016-04-27
+39,Consultant Report/ Raport de consultant,Literature Review: Solid Phase Separation of Lanthanides and Actinides,"Nicolas Reynier, JF Fiset, Laurence Whitty-L√©veill√©, Dominic Lariviere",2016-04-15
+40,Consultant Report/ Raport de consultant,"Review of Separation Technologies for REE, Techno Economic Analysis and Gaps (2016) - Laval University",Laval University,2016-04-07
+41,Consultant Report/ Raport de consultant,Literature Review and Gaps Analysis of Rare Earth Element (REE) Metallurgical Extraction Methods,SGS Canada,2016-04-01
+42,Consultant Report/ Raport de consultant,A Study of Coarse Ore Pre-Concentration and Potential Applicability to Canadian Rare Earth Deposits,J.R. Goode & Associates,2016-03-31
+43,Consultant Report/ Raport de consultant,Literature Review of Naturally Occurring Radioactive Materials (NORM) and their Implications for a Developing Rare Earth Element Industry in Canada,Golder Associates Ltd,2016-03-31
+44,Consultant Report/ Raport de consultant,Literature Review of Potential Ecotoxicological Effects Arising from Rare Earth Element (REE) Processing,Golder Associates Ltd,2016-03-31
+45,Consultant Report/ Raport de consultant,Literature Review of the Concentration of Rare Earth Elements (REE) Through Flotation Processes,Universit√© Laval,2016-03-31
+46,Consultant Report/ Raport de consultant,Literature Review on Secondary Sources of Rare Earth Elements (REE),Golder Associates Ltc,2016-03-31
+47,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Application of the Environmental Transformation and Removal Protocol on Cadmium for Chronic Aquatic Hazard Classification,Philippa Huntsman; Ted Mackinnon,2021-02-09
+48,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Normet Canada's Onaping Type and Leinster Style Self-Drilling Dynamic Bolts (SDDB) in Injectable Urea-Silicate Resin,"Devan MacDonald, Steve Gaines",2021-02-05
+49,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Preliminary report on the assessment of the environmental transformation and removal of zinc from the water column,Philippa Huntsman,2021-01-19
+50,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Assessing the Environmental Transformation and Removal of Zinc from the Water-Column for Chronic Aquatic Hazard Classification, Philippa Huntsman and Ted MacKinnon,2020-12-14
+51,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Classification of metals and inorganic metal compounds for long-term environmental hazard:,"Stijn Baken and others, Philippa Huntsman",2020-12-14
+52,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Standard Operating Procedure for Assessing the Environmental Transformation and Removal of Metals from the Water-Column for Aquatic Hazard Classification,Philippa Huntsman,2020-12-14
+53,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,PROFICIENCY TESTING PROGRAM FOR MINERAL ANALYSIS LABORATORIES ‚Äì       April 2020 CYCLE (FINAL REPORT) ,diane desroches,2020-12-08
+54,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"√âvaluation des plans d‚Äôaction et de fermeture pour la protection de l‚Äôenvironnement √† l‚Äôexploitation mini√®re du Mont-Wright, Fermont, Qu√©bec","Nicolas Reynier, Jennifer Cole, Bill Price, Julie Deriaz, Nicolas Reynier",2020-11-04
+55,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of DSI Underground Canada's Dynamix Bolts,,2020-10-07
+56,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,:  PROFICIENCY TESTING PROGRAM FOR MINERAL ANALYSIS LABORATORIES ‚Äì   April 2020CYCLE (FINAL REPORT) ,Diane Desroches,2020-06-22
+57,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of BASF MasterRoc RBA 380 Resin on Hollow and Solid Rock-Bolts,Ren√©e Royer et Devan MacDonald,2020-01-27
+58,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of BASF MasterRoc RBA 387 Resin on Hollow and Solid Rock-Bolts,Ren√©e Royer et Devan MacDonald,2020-01-27
+59,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,PROFICIENCY TESTING PROGRAM FOR MINERAL ANALYSIS LABORATORIES ‚Äì,Diane Desroches,2019-12-16
+60,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of DSI Underground Canada‚Äôs Dynamix Bolts,Ren√©e Royer,2019-12-05
+61,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Application of the Transformation/Dissolution Protocol Extension (T/DP-E) to low concentration copper solutions,Philippa Huntsman,2019-10-08
+62,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Dynamic And Static Behaviours of the Normet Canada Pumpable Resin,Ren√©e Royer,2019-07-19
+63,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,ProficiencyTesting Program for Mineral Analysis Laboratories- April 2019 Cycle (Final Report),Diane Desroches,2019-05-31
+64,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,In-Service diesel engine emissions study in support of CSA Standards Development,"David Young, Brent Rubeli",2019-04-29
+65,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,High Pulse Voltage Pre-Weakening on Goldex Ore,"Tony Di-Feo, Pejman Nekoovaght, Rolando Lastra, Marck Betournay",2019-04-03
+66,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Vale Commercial Diesel Particulate Filter (DPF) Assessment ,Brent Rubeli,2019-02-07
+67,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,R√©cup√©ration de chaleur sur l‚Äôeau de proc√©d√© d‚Äôun concentrateur minier,Yan Germain,2019-01-24
+68,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,R√©cup√©ration de chaleur sur l‚Äôeau de proc√©d√© d‚Äôun concentrateur minier ,Yan Germain,2019-01-16
+69,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Proficiency testing program for mineral analysis laboratories-Sept. 2018 Cycle (Final Report),Diane Desroches,2018-12-14
+70,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Impact of three low-level biodiesel blended fuels on exhaust emissions from a mining diesel engine.,Brent Rubeli,2018-12-05
+71,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Testing of Full-Scale Micro-Encapsulation Mortars Produced Using Attrition Vessels,"A. Bilodeau, A. Demers, M. Bilodeau, J. Kruszewski / C. Laviolette",2018-11-22
+72,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Rock Solutions North EXI Bolt Generation 1,"Renee Royer, Devan MacDonald",2018-10-23
+73,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Rock Solutions North EXI Bolt Generation 2,"Ren√©e Royer, Devan MacDonald",2018-10-23
+74,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"Legacy Cemented Radioactive Waste Management at Pilot scale, Quarterly report Q1 and Q2","Nicolas Reynier, J.F. Fiset, Alain Bilodeau",2018-10-15
+75,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Dynamic Behaviours of the Normet Asia-Pacific Dbolts,Ren√©e Royer,2018-07-12
+76,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of College Resources & Civil Engineering,"Ren√©e Royer, Devan MacDonald",2018-07-11
+77,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Normet Asia Pacific D-Bolts,"Ren√©e Royer, Devan MacDonald",2018-07-11
+78,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,The Feasibility of Separation of Rare Earth Elements by Use of Electrodialysis,Sanaz Mosadeghsedghi,2018-07-09
+79,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Dynamic and Static Behaviours of the Mansour Mining Technologies Versa Bolts,"Renee Royer, Devan MacDonald",2018-06-06
+80,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Dynamic and Static Behaviours of the DSI Underground Canada Yield-Lok Bolt,"Ren√©e Royer, Devan MacDonald",2018-05-16
+81,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Proficiency Testing Program for Mineral Analysis Laboratories - April 2018 Cycle (Final Report),Diane Desroches,2018-05-14
+82,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Metal removal from the Water Column: Rationale for selecting test parameters in the extended transformation-dissolution protocol ,P. Huntsman,2018-04-17
+83,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Summary of Recent Science:  Metal Removal from Waters,"External Authors, Philippa Huntsman",2018-03-01
+84,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Characterization of surrogate cemented radioactive waste-Effect of Aging,Jean Francois Fiset,2018-02-14
+85,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Technology Optimization ‚Äì CRW Research: Performance of Cementing Matrices,A. Bilodeau,2018-02-14
+86,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Normet Scandinavia DBolts and SDDB Bolts,"Ren√©e Royer, Devan MacDonald",2018-01-31
+87,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Final Report: Combining grinding and leaching of surrogate cemented radioactive wastes,Nicolas Reynier,2018-01-11
+88,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Proficiency testing program for mineral analysis laboratories-Sept. 2017 Cycle (Final Report),Diane Desroches,2018-01-10
+89,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"Rapid Removal and Resuspension Experiments for Copper, Cobalt and Strontium for Aquatic Hazard Classification","Philippa Huntsman, Rob Beaudoin",2018-01-08
+90,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Laurential University's Versa-S and MCB-S Yielding,"Ren√©e Royer, Devan MacDonald",2017-12-18
+91,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Laurentian University‚Äôs Versa-S and MCB-S Yielding Bolts  ,"Ren√©e Royer, Devan MacDonald",2017-12-18
+92,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Technologies Optimization - CRW Researc Task B - Plastic and Metal Separation,"Magella Bilodeau, Andr√© Demers, Nabil Bouzoubaa, Marc Chapman",2017-12-08
+93,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,√âvaluation de la performance du groupe d'√©quipements miniers S.A.M.S.,Andr√© Harvey,2017-10-10
+94,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Rapid Removal and Re-suspension Data and Figures for Co and Cu,Philippa Huntsman-Mapila,2017-10-03
+95,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Veille technologique sur v√©hicules miniers √† batteries,Andr√© Harvey,2017-08-08
+96,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of RocBolt Technologies Yield-Lok Bolts ,"Ren√©e Royer, Ted Anderson",2017-07-04
+97,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of New Concept Mining Par-1 and MP-1 Rock Bolts ,"Ren√©e Royer, Ted Anderson",2017-05-24
+98,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Proficiency Testing Program for Mineral Analysis Laboratories - April 2017 Cycle - final report,Diane Desroches,2017-05-19
+99,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Dynamic and Static Behaviours of the TONRY Mining Safety Support Technology E-Bolts ,"Ren√©e Royer, Ted Anderson",2017-05-17
+100,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Mineralogical characterization of sediment and tailings samples from an oil sands operation: Implications on the potential sources and releases of arsenic to groundwater ,"Dogan Paktunc, Derek Smith",2017-04-26
+101,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Technologies Optimization - CRW Research Q3 Report,"N. Bouzouba√¢, J-F. Fiset, M. Bilodeau, N. Reynier, A. Bilodeau",2017-04-06
+102,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Technologies Optimization ‚Äì CRW Research Quarterly Report ‚Äì Q3 ,Nabil Bouzoubaa,2017-04-04
+103,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Verification de la machine d'extraction a tambour double Nordberg serie 31451 du puits #1 de la mine Seleine,Louis Germain,2017-04-04
+104,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d'extraction √† poulie d'adh√©rence ASEA s√©rie 391 du puits #2 de la mine Seleine,Louis Germain,2017-04-03
+105,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Verification de la machine d'extraction a tambour simple Tiley serie 1692 du puits #2  de la mine Goldex,Louis Germain,2017-03-29
+106,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction √† tambour double Nordberg  s√©rie 31451 du puits #1 de la mine Seleine. ,Louis Germain,2017-03-24
+107,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d'extraction √† tambour double Nordberg s√©rie 7030-1161 de la mine Lapa,Louis Germain,2017-03-01
+108,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of DSI Underground Canada Yield-Lok Bolts ,Ren√©e Royer,2017-02-24
+109,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Accelerated leaching and recovery process for actinides-free separation of rare earth element ,Nicolas Reynier,2017-02-16
+110,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Assessment of reproductive toxicity of groundwater to fathead minnow (Pimephales promelas) using a 7- and 21-day short-term reproductive bioassay ,"Carrie Rickwood, Melissa Desforges",2017-02-08
+111,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d'extraction √† tambour double Bertram Nordberg s√©rei 31269 de la mine Kiena,Louis Germain,2017-02-07
+112,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Proficiency Testing Program for Mineral Analysis Laboratories - September 2016 Cycle - final report,Diane Desroches,2017-01-25
+113,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Sales Review for FY 2015-2016 for the Canadian Certified Reference Materials Project and Proficiency Testing Program ‚Äì Mineral Analysis Laboratories  ,Maureen Leaver,2017-01-20
+114,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction √† tambour double Vulcan s√©rie 1485 de la mine Geant Dormant. ,Louis Germain,2017-01-11
+115,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Examination of the Transformation/Dissolution Characteristics of Tungsten Disulphide for Aquatic Hazard Classfication ,Philippa Huntsman-Mapila,2017-01-10
+116,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Proposal for the 2017 ‚Äì 2022 Production Plan for the Canadian Certified Reference Materials Project ,Maureen Leaver,2017-01-06
+117,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction √† tambour double Bertram Nordberg s√©rie 13303 de la mine Beaufor. ,Louis Germain,2017-01-06
+118,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Technologies Optimization - CRW Research Q2 Report,"N. Bouzouba√¢, J-F. Fiset, M. Bilodeau, N. Reynier, A. Bilodeau",2017-01-04
+119,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Respirable Crystalline Silica Sampling in Saskatchewan Potash Mines  ,Michel Grenier,2016-12-08
+120,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Method Optimization for determining the removal of metals from the water column under Transformation/Dissolution conditions for hazard classification ,Philippa Huntsman-Mapila,2016-12-01
+121,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"V√©rification de la machine d‚Äôextraction √† tambour double Hobgard, Fulleton and Barclay s√©rie 35301 de la mine Niobec. ",Louis Germain,2016-11-17
+122,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction √† tambour double Markham s√©rie B15024 de la mine Eleonore puits #2 Production ,Louis Germain,2016-11-17
+123,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of DSI Holding GmbH Dynamic Omega Rock Bolts,Ren√©e Royer,2016-11-03
+124,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of new Concept Mining Par-1 and MP-1 Rock Bolts,Ren√©e Royer,2016-11-03
+125,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts, Application of the Transformation/Dissolution Protocol to determine the rate and extent of removal of metals from the water column for chronic hazard classification,Philippa Huntsman-Mapila,2016-10-26
+126,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of PRETEC Yielding Rock Bolt,Ren√©e Royer,2016-10-17
+127,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts," Evaluation of the CanmetENERGY prototype catalyzed diesel particulate filter: determination of the balance point temperature, L. Nossova, G. Caravaggio, B. Rubeli and D.Young (Natural Resources Canada)",Brent Rubeli,2016-10-06
+128,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,From organics coversto amended tailing ‚Ä¶ a sustainable approach?,Suzanne Beauchemin,2016-10-03
+129,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction  √† tambour double Bertram Nordberg s√©rie 13845 de la mine Bachelor,Louis Germain,2016-09-22
+130,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Infra Management Yielding Rock Bolt,Ren√©e Royer,2016-09-15
+131,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Jennmar Australia Cable Bolt,Ren√©e Royer,2016-09-15
+132,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction √† tambour double ASEA  s√©rie 390,Louis Germain,2016-07-12
+133,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"CHARACTERIZATION, COMMINUTION, LEACHING AND ENCAPSULATION METHODS OF SURROGATE CEMENTED RADIOACTIVE WASTES",Jean Fran√ßois Fiset,2016-07-05
+134,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction √† tambour double Bertram Nordberg BLH s√©rie 14122,Louis Germain,2016-07-05
+135,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Piolt Scale Investigation Of Ore Traking Option In A Silo,Magela Bilodeau,2016-06-28
+136,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction √† tambour double Davy Markham s√©rie B85014,Louis Germain,2016-06-12
+137,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction Bertram Nordberg s√©rie 13082,Louis Germain,2016-06-12
+138,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction √† poulie d‚Äôadh√©rence Westinghouse s√©rie 00MA173,Louis Germain,2016-06-11
+139,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de l‚Äôinstallation motoris√©e de transport de personnel Davy Markham s√©rie B95023 du puits no 2 de production,Louis Germain,2016-06-10
+140,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Proficiency Testing for Mineral Analysis Laboratories April 2016 (final report),Diane Desroches,2016-05-16
+141,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"Determination of Balance Point Temperature,  CanmetENERGY Catalyzed Diesel Particulate Filter (CDPF)",David Young,2016-05-03
+142,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Performance Evaluation of Schauenburg Industries Ltd. Fiberglass Ventilation Ducting ‚Äì Leakage assessment,Michelle Levesque,2016-05-03
+143,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Performance evalutation of G+ Speed Air Duct polyethylene ventilation ducting - Phase II,Stephen Hardcastle,2016-05-03
+144,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,LONG TERM PERFORMANCE OF CRW RESEARCH TASK.B1 - FINE-TUNING OF THE COMMINUTION STRATEGY,Magela Bilodeau,2016-04-08
+145,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Evaluation of Diesel Oxidation Catalysts for NO2 Formation,Mahe Gangal,2016-04-04
+146,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Static and Dynamic Behaviours of Atlas Copco MN24 Swellex Bolts with Sleeves,Ren√©e Royer,2016-03-11
+147,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Evaluation of Catalytic Exhaust Products DOCs for low  or No NO2 Production,Mahe Gangal,2016-03-10
+148,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of RocBolt Technologies Yield-Lok Bolt (Jennmar),Ren√©e Royer,2016-03-07
+149,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Sensitivity Study on Ventilation Parameter Changes ‚Äì Application in a Demand Based Ventilation System¬†,Gary Li,2016-02-12
+150,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Processing Flowsheet Development for the Montviel Carbonaceous Rare Earth Bearing Ore¬†,Tesfaye Negeri,2016-02-05
+151,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction Davy Markham s√©rie B15026,Louis Germain,2016-01-19
+152,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Transformation/Dissolution Characteristics of Nickel Oxide Black and Three Nickel Concentrates,Jim Skeaff,2015-12-21
+153,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Static and Dynamic Behaviours of,Ren√©e Royer,2015-12-04
+154,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"Solidification of the Residue from a Process for the Extraction or Recovery of Cesium, Mercury and Uranium from Cemented Radioactive Waste",Alain Bilodeau,2015-11-19
+155,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Proficiency Testing Mineral for Mineral Analysis Laboratories - September 2015 cycle (final report),"Desroches, Diane",2015-11-18
+156,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing on JENNMAR Yield Lok Bolts,Ren√©e Royer,2015-11-04
+157,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,K factor performance evaluation of MECANIVENT¬Æ co-polymer ventilation ducting,Stephen Hardcastle,2015-10-29
+158,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction Wild / Markham s√©rie 407,Louis Germain,2015-10-29
+159,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"V√©rification de la machine d‚Äôextraction Fullerton, Hodgart & Barclay s√©rie 35301",Louis Germain,2015-10-23
+160,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Cemented Radioactive Waste ‚Äì Confirmation Tests Quarterly Report ‚Äì Q2,Jean Fran√ßois Fiset,2015-08-28
+161,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de l‚Äôinstallation motoris√©e de transport de personnel Davy Markham s√©rie B95022 du puits d‚Äôexploration,Louis Germain,2015-07-17
+162,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Development of Concrete and Grout for the Macro-Encapsulation of Cemented Radioactive Waste,Alain Bilodeau,2015-07-02
+163,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Micro-Encapsulation of Cemented Radioactive Waste,Alain Bilodeau,2015-07-02
+164,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de la machine d‚Äôextraction Canadian Ingersoll Rand s√©rie 1560 du puits no 2,Martin Cote,2015-06-15
+165,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,V√©rification de l‚Äôinstallation motoris√©e de transport de personnes G.L.Tiley s√©rie 1692 du puits no 2,Martin Cote,2015-06-15
+166,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Mine Kiena B&N s√©rie 31269,"Germain, Louis",2015-04-23
+167,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Static and Dynamic Behaviours of Garock Hybrid Bolts,"Voyzelle, Benoit",2015-04-22
+168,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,G√©ant Dormant Vulcan s√©rie 1485,"Germain, Louis",2015-04-16
+169,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Lac Bachelor Bertram Nordberg s√©rie 13845,"Germain, Louis",2015-04-16
+170,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Basic Energy Consumption Model of Conventional and Thermally-Fragmented Gold-Bearing Quartz Veins,"B√©tournay, Marc",2015-03-31
+171,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Energy Savings Associated with the Application of the SELFRAG Technology,"B√©tournay, Marc",2015-03-31
+172,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"Evaluating the Selfrag Process for Energy Efficiency Advantages in Thermal Fragmentation Continuous Mining of Gold-Bearing Quartz Veins, Report 1 Basic Energy Consumption Model of Conventional and Thermally-Fragmented Gold-Bearing Quartz Veins","B√©tournay, Marc",2015-03-31
+173,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"Evaluating the Selfrag Process for Energy Efficiency Advantages in Thermal Fragmentation Continuous Mining of Gold-Bearing Quartz Veins, Report 2 Energy Savings Associated with the Application of the Selfrag Technology","B√©tournay, Marc",2015-03-31
+174,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"Evaluating the Selfrag Process for Energy Efficiency Advantages in Thermal Fragmentation Continuous Mining of Gold-Bearing Quartz Veins, Report 3 Mine Operation Considerations for Selfrag System Application in Conventional and Thermally-Fragmented Gold-Be","B√©tournay, Marc",2015-03-31
+175,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Mine Operation Considerations for SELFRAG System Application in Conventional and Thermally-Fragmented Gold-Bearing Quartz Veins,"B√©tournay, Marc",2015-03-31
+176,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Transformation/dissolution studies on two cobalt alloys at pH 6,"Huntsman-Mapila, Philippa",2015-03-31
+177,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Cemented Radioactive Waste - Long Term Performance - Task C Process Optimization and Validation,"Reynier, Nicolas",2015-03-17
+178,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Static and Dynamic Behaviours of Atlas Copco MN24 Swellex Coated Bolts,"Voyzelle, Benoit",2015-03-11
+179,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Bousquet 2 Nordberg s√©rie 7030-1098,"Germain, Louis",2015-03-05
+180,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Cemented Radioactive Waste - Confirmation Tests Quarterly Report - Q1,"Bouzoubaa, Nabil",2015-03-03
+181,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Cemented Radioactive Waste - Long Term Performance Quarterly Report - Q6,"Bouzoubaa, Nabil",2015-03-03
+182,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Dynamic Behaviour of New Concept Mining Par 1 Bolts,"Voyzelle, Benoit",2015-03-02
+183,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,LARONDE 2 Davy Markham s√©rie B85006,"Germain, Louis",2015-02-17
+184,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,LARONDE 2 Kvaerner Markham s√©rie T65009,"Germain, Louis",2015-02-17
+185,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,WESTWOOD Nordberg s√©rie 7030-1081,"Germain, Louis",2015-02-02
+186,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,ELEONORE Markham s√©rie B15024,"Germain, Louis",2015-01-13
+187,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,ELEONORE Markham s√©rie B95023,"Germain, Louis",2015-01-13
+188,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Feasibility of Acti-Gel as a Cost-effective Additive for Hydraulic Backfill Applications.  Summary of Laboratory Strength Tests Specific to Vale‚Äôs Creighton Mine,"Bedard, Ian",2014-12-22
+189,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,WESTWOOD Markham s√©rie B85013,"Germain, Louis",2014-12-16
+190,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,CasaBerardi Nordberg s√©rie 14122,"Germain, Louis",2014-12-08
+191,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Production-Scale Validation of Liquid Wastes Cementration Formulations: Final Report,"Bilodeau, Alain",2014-12-08
+192,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Investigation of Geotextiles to prevent loss of fines in hydraulic backfill stoping at Vale Canada Ltd.,"Bedard, Ian",2014-11-26
+193,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,GOLDEX Westinghouse s√©rie 00MA173,"Germain, Louis",2014-11-24
+194,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Proficiency Testing Program from Mineral Analysis Laboratories - September 2014 Cycle (Final Report),"Desroches, Diane",2014-11-19
+195,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Transformation/Dissolution Characteristics of Nickel Oxide Black and Three Nickel Concentrates,"Skeaff, Jim",2014-11-12
+196,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,WESTWOOD Markham s√©rie B85014,"Germain, Louis",2014-11-12
+197,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Cemented Radioactive Waste ‚Äì Long Term Performance Quarterly Report ‚Äì Q5,"Bouzoubaa, Nabil",2014-10-28
+198,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Performance Evaluation of G+ Speed Air Duct Polyethylene Ventilation Ducting,"Hardcastle, Stephen",2014-10-21
+199,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,SELEINE ASEA s√©rie 391,"Germain, Louis",2014-10-14
+200,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,SELEINE BN s√©rie 31451,"Germain, Louis",2014-10-14
+201,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,NIOBEC FHB s√©rie 35301,"Germain, Louis",2014-09-30
+202,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,NIOBEC Hep s√©rie 20299,"Germain, Louis",2014-09-30
+203,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Resistance for Liquid Wastes Cementation Formulations to Freezing and Thawing Cycling,"Bilodeau, Alain",2014-09-15
+204,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Eleonore s√©rie B95022,"Germain, Louis",2014-08-27
+205,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laronde Markham s√©rie B10010,"Germain, Louis",2014-07-28
+206,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laronde Markham s√©rie M407,"Germain, Louis",2014-07-28
+207,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Pre-/Post-SCR Installation Assessment of Ambient NO/NO2 and DPM Levels at Goderich Mine,"Hardcastle, Stephen",2014-07-28
+208,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Ventilation Optimization at Cigar Lake Mine - Cameco Corporation,"Li, Gary",2014-07-23
+209,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Cemented Radioactive Waste - Long Term Performance Quarterly Report - Q3,"Bouzoubaa, Nabil",2014-07-22
+210,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Cemented Radioactive Waste - Long Term Performance Quarterly Report - Q4,"Bouzoubaa, Nabil",2014-07-22
+211,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,√âl√©onore B95021,"Germain, Louis",2014-07-17
+212,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Lapa Nordb 7030-1161,"Germain, Louis",2014-07-17
+213,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laronde2 W 00MA175,"Germain, Louis",2014-07-17
+214,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Test Report of IPKON Silicate Capsules,"Voyzelle, Benoit",2014-07-02
+215,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Proficiency Testing Program from Mineral Analysis Laboratories ‚Äî April 2014 Cycle (Final Report),"Desroches, Diane",2014-05-01
+216,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Rare Earth Element Method Development and Capacity Building within ASG,"Pawlak, Marcin",2014-04-11
+217,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Static and Dynamic Behaviours of Wekaba Cable Bolts,"Voyzelle, Benoit",2014-03-28
+218,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Test Report of Various Domed Plates,"Voyzelle, Benoit",2014-03-28
+219,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"Method Development and Validation for the Determination of Several Rare Earth Elements, Iron and Niobium in Various REE Bearing Minerals","Wang, Ruiping",2014-03-24
+220,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Beaufor B.N.13303 (14-008-CR),"Germain, Louis",2014-03-21
+221,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,CasaBerardi Nordberg 14122 (13-021-CR),"Germain, Louis",2014-03-21
+222,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Cemented Radioactive Waste - Long Term Performance Quarterly Report - Q1 (13-045-CR),"Bouzoubaa, Nabil",2014-03-21
+223,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Evaluation of Green Genius Fuel Saver Technology to improve the Efficiency of Diesel Internal Combustion Engines with the Resultant Reduction of Fuel Burn and Exhaust Emissions - Data Summary and Analysis (14-010-CR),"Young, David A.",2014-03-21
+224,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Goldex T1692 (14-006-CR),"Germain, Louis",2014-03-21
+225,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Investigation into the fate and effects of selenium on the life-cycle of a benthic invertebrate (Chironomus dilutus). (13-048-CR),"Rickwood, Carrie",2014-03-21
+226,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laborator - scale validation of liquid waste cemented solution (13-052-CR),"Kassimi, Fodhil",2014-03-21
+227,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Dynamic Behaviour of Aveng Yielding Cable Bolts (13-051-CR),"Voyzelle, Benoit",2014-03-21
+228,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Kiruna Bolts for Malmf√§lten AB (13-055-CR),"Voyzelle, Benoit",2014-03-21
+229,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Static and Dynamic Behaviours of Atlas Copco MN24 Swellex Bolts (13-057-CR),"Voyzelle, Benoit",2014-03-21
+230,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Proficiency Testing Program for Mineral Analysis Laboratories - September 2013 Cycle (FINAL REPORT) (13-059-CR),"Desroches, Diane",2014-03-21
+231,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"Report on Phase One of the Project, Rare Earth Elements Containing Certified Reference Material (13-038-CR)","Leaver, Maureen",2014-03-21
+232,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"Source of Dissolved Arsenic in Groundwater at a Steam-assisted Gravity Drainage Site in the Oil Sands Area, Alberta","Thibault, Yves",2014-03-21
+233,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Summary of Laboratory Strength Tests and Pilot-scale Flowability Tests Specific to Vale's Coleman Mine,"Tarr, Kristie",2014-03-21
+234,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Temperature Modeling - Liquid Waste Project (13-001-CR),"Kassimi, Fodhil",2014-03-21
+235,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Test Report of Swellex Spartan Rock Bolts (13-056-CR),"Voyzelle, Benoit",2014-03-21
+236,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Testing of the Modular Thermal Transfer Unit (MTTU) in Vale's Stobie Mine (13-037-CR),"Li, Gary",2014-03-21
+237,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Transformation/Dissolution Studies on Four Nickel Mattes at pH 6 and 8 (13-033-CR),"Huntsman-Mapila, Philippa",2014-03-21
+238,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,√âvaluation de performance du d√©shydrateur √† benne basculante (13-053-CR),"Lacroix, Roger",2014-03-20
+239,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"inspection de ""Langlois CIR 1149"" (13-058-CR)","Germain, Louis",2014-03-19
+240,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,"Lac Bachelor, BN s√©rie 13845 (13-061-CR)","Germain, Louis",2014-03-19
+241,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laronde 2 Markham s√©rie T65009 (13-060-CR),"Germain, Louis",2014-03-19
+242,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Mouska CIR 1852 (13-054-CR),"Germain, Louis",2014-03-19
+243,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Development of Cementing Formulations for Loop Decontamination Waste Tanks,"Bilodeau, Alain",2014-03-18
+244,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Production-Scale Validation of Liquid Waste Cementation Formulations,"Bilodeau, Alain",2014-03-18
+245,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,√âl√©onore DavyMarkham s√©rie B15024 (13-049-CR),"Germain, Louis",2014-03-14
+246,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,√âl√©onore DavyMarkham s√©rie B95023 (13-050-CR),"Germain, Louis",2014-03-14
+247,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Bousquet N7030-1098 (14-002-CR),"Germain, Louis",2014-03-14
+248,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,G√©ant Dormant Vulcan 1485 (13-044-CR),"Germain, Louis",2014-03-14
+249,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Langlois B.N. 13082 (14-007-CR),"Germain, Louis",2014-03-14
+250,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Leaching of a black shale from Alberta-Final Report (13-046-CR),"Cameron, Rory",2014-03-14
+251,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Niobe FH&B s√©rie 35301,"Germain, Louis",2014-03-14
+252,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Promec Coeur d'Al√®ne 7192120 (13-042-CR),"Germain, Louis",2014-03-14
+253,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Service inspection des treuils (14-003-CR),"Germain, Louis",2014-03-14
+254,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Westwood DavyMarkham B85013 - production (13-041-cr),"Germain, Louis",2014-03-14
+255,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Energy Efficient Rock Fragmentation - GAP Analysis (13-040(CR)),"Bilodeau, Magella",2013-10-30
+256,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Goldex ASEA 390 (13-034(CR)),"Germain, Louis",2013-10-30
+257,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Preliminary Study on the Best practices for Placement of Cemented Hydraulic Fill with Rockfill at Vale Canada Sudbury Base Metal Operations (13-036(CR)),"Tarr, Kristie",2013-10-30
+258,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Westwood DavyMarkham B85014 (13-039(CR)),"Germain, Louis",2013-10-30
+259,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Westwood Norberg 7030-1081 (13-035(CR)),"Germain, Louis",2013-10-30
+260,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Development of Concrete and Grout for the Macro-Encapsulation of Cemented Radioactive Waste (13-027(CR)),"Bilodeau, Alain",2013-10-28
+261,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Static and Dynamic Behaviour of Minova Bolts (13-029(CR)),"Voyzelle, Benoit",2013-10-28
+262,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Static and Dynamic Behaviour of Minova Cable Bolts (13-032(CR)),"Voyzelle, Benoit",2013-10-28
+263,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Micro-Encupsulation of Cemented Radioactive Waste (13-026(CR)),"Bilodeau, Alain",2013-10-28
+264,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Mine Seleine ASEA391 (13-024(CR)),"Germain, Louis",2013-10-28
+265,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Mine Seleine BN 31451 (13--023(CR)),"Germain, Louis",2013-10-28
+266,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Preliminary processing flowsheet development for a carboaceous rare earth bearing ore (13-028(CR)),"Negeri, Tesfaye",2013-10-28
+267,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Solidification of the residue from a process for the extraction or recovery of cerium...from cemented radioactive waste (13-025(CR)),"Bilodeau, Alain",2013-10-28
+268,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Stabilisation of Cemented Radioactive Waste (Task B)Comminution Process-Summary report (13-030(CR)),"Bilodeau, Magella",2013-10-28
+269,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Stabilisation of Cemented Radioactive Waste (Task B-4) Pilot Scale Comminution Test (13-031(CR)),"Bilodeau, Magella",2013-10-28
+270,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Mineralogical Characterization of Hydrometallurgical Residue Subjected to Column Leaching Experiments (13-018(CR)),"Paktunc, Dogan",2013-09-26
+271,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Niobec H20299 (13-019(CR)),"Germain, Louis",2013-09-26
+272,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,PTP-MAL Biannual report (13-016(CR)),"Desroches, Diane",2013-09-26
+273,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Quality Assurance Liquid Waste (13-017(CR)),"Bouzoubaa, Nabil",2013-09-26
+274,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Characterization of Radioactive Surrogate Cemented Waste (13-012(CR)),"Fiset, Jean-Francois",2013-09-25
+275,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Elder CIR 1560 (13-015(CR)),"Germain, Louis",2013-09-25
+276,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Eleonore B95021 (13-009(CR)),"Germain, Louis",2013-09-25
+277,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Eleonore B95022 (13-010(CR)),"Germain, Louis",2013-09-25
+278,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Goldex West (13-008(CR)),"Germain, Louis",2013-09-25
+279,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Kiena-BN31269 (13-006(CR)),"Germain, Louis",2013-09-25
+280,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Leaching of a Black Shale from Alberta (13-011(CR)),"Cameron, Rory",2013-09-25
+281,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Mouska LS 122-40 (13-014(CR)),"Germain, Louis",2013-09-25
+282,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,T/D Studies of Cobalt Hydroxide (13-007(CR)),"Beaudoin, Robert",2013-09-25
+283,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Task C- Determination of the Chemical Characteristics of Surrogate Cemented Waste (13-013(CR)),"Lastra, Rolando",2013-09-25
+284,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Assessment of the impact of the YYYYY fuel additive on diesel engine emissions (13-004(CR)),"Young, David A.",2013-09-24
+285,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Improving Pail Production Process (13-005(CR)),"Cameron, Rory",2013-09-24
+286,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory Testing of Static and Dynamic Behaviours of YYYY Bolts (13-002(CR)),"Voyzelle, Benoit",2013-09-24
+287,Cost Recovery (CR) report / Rapport de recouvrement des co˚ts,Laboratory testing ... (13-001(CR)),"Voyzelle, Benoit",2013-09-13
+288,Journal/ Revue scientifique ,Machine Learning Analysis of the Canadian Royalties Crushing and Grinding Circuits,"Tony Di Feo, Nasseh Khodaie, benjamin Lewis and Matthieu Girard",2021-02-17
+289,Journal/ Revue scientifique ,"Trace elements in sulfides and release to porewater from sulfide oxidation in a historical waste-rock pile, Ontario, Canada","Lianna J.D. Smith, Dogan Paktunc, David W. Blowes",2021-02-11
+290,Journal/ Revue scientifique ,A Cross Scale Investigation of Galena Oxidation and Controls on Mobilization of Lead in Mine Waste Rock,"Z. Bao. T. Al, M. Couillard, G. Poirier, J. Bain, H.K Shrimpton, Y.Z Finfrock, A.Lanzirotti",2021-02-09
+291,Journal/ Revue scientifique ,Cr(VI) formation in ferrochrome-smelter dusts,Eleanor Berryman and Dogan Paktunc,2021-02-03
+292,Journal/ Revue scientifique ,"Stirred-tank bioleaching of nickel and cobalt from pyrrhotite-rich tailings from Sudbury, Ontario","Rory Cameron, Yves Thibault, Rolando Lastra, Lucie Morin, Doug Gould",2021-01-08
+293,Journal/ Revue scientifique ,Multivariate Analysis of Variance (MANOVA) of Laboratory Assay Methods for Rare Earth Elements,Tony Di Feo and Eliza Ngai,2020-12-23
+294,Journal/ Revue scientifique ,Effect of Strong Collectors and Frothers on Coarse Particle Flotation using the HydroFloatTM for a North American Concentrator,"Tony Di Feo, Meghan De Souza, Rolando Lastra and Andrew Hobert",2020-12-07
+295,Journal/ Revue scientifique ,The Effects of Water Recycling at a North American Concentrator ‚Äì Part 2,"T. Di Feo, C.M. Hill-Svehla, B.R. Hart, K. Volchek, L. Morin and A. Demers",2020-12-01
+296,Journal/ Revue scientifique ,Development and characterization of low-pH cements for structural purposes in geological repository systems,"Olfa Oueslati (external), Nabil Bouzouba√¢, Alain Bilodeau",2020-10-09
+297,Journal/ Revue scientifique ,Evaluating the Validity of Continuous-Failure-State Unloading Triaxial Tests as a Means to Estimate the Residual Strength of Rock,"Gabriel Walton (CSM), Steven Gaines (CMIN), Leandro R. Alejano (University of Vigo, Spain)",2020-10-09
+298,Journal/ Revue scientifique ,Performance of Identical Rockbolts Tested on Four Testing Rigs Employing the Direct Impact Method,"Charlie C. Li, John Hadjigeorgiou, Peter Mikula et al.",2020-10-02
+299,Journal/ Revue scientifique ,"Tailings Dust Characterization and Impacts on Surface Water Chemistry at Stirling Mine, Nova Scotia","Amy Cleaver, Philippa Huntsman, Carrie Rickwood, Heather E. Jamieson",2020-09-23
+300,Journal/ Revue scientifique ,"Blended municipal compost and biosolid materials for mine reclamation: long-term field studies to explore metal mobility, soil fertility and microbial communities","Sean Langley, Ted MacKinnon",2020-09-02
+301,Journal/ Revue scientifique ,How tire stock management and fitment strategy impact truck availability,"Michelle Levesque, Emma Tomini and John Le.",2020-08-19
+302,Journal/ Revue scientifique ,Application of biochar prepared from ethanol refinery by-products for Hg stabilization in floodplain soil: Impacts of drying and rewetting,"Alana O. Wang, Carol J. Ptacek, Dogan Paktunc, E. Erin Mack, David W. Blowes",2020-08-15
+303,Journal/ Revue scientifique ,Quantifying historical releases and pre-operation levels of metals and radionuclides downstream of decommissioned uranium mine sites.,Richard Goulet,2020-07-17
+304,Journal/ Revue scientifique ,Geochemical response of contaminated lake sediments to climate change,Stephanie DeSisto ; Carrie Rickwood; Philippa Huntsman,2020-03-12
+305,Journal/ Revue scientifique ,Flotation-calcination-magnetic separation hybrid process for concentration of,Tesfaye Negeri  ,2020-03-04
+306,Journal/ Revue scientifique ,The Mode of Incorporation of As(-I) and Se(-I) in Natural Pyrite Revisited,Dogan Paktunc,2020-02-03
+307,Journal/ Revue scientifique ,Minimizing the impact of passivation during allanite-(Ce) decomposition in sulfuric acid media for rare earth recovery,"Yves Thibault, Joanne Gamage McEvoy",2020-01-17
+308,Journal/ Revue scientifique ,Bioleaching of uranium tailings as secondary sources for rare earth elements production,"R. Gagn√©-Turcotte, N. Reynier, L. Coudert, C. Laviolette, R. Cameron, J.F. Blais",2019-12-17
+309,Journal/ Revue scientifique ,"Early-life-stage toxicity of four rare earth elements to brown trout (Salmo trutta), coho salmon (Oncorhynchus kisutch) and fathead minnow (Pimephales promelas)","Josh Baker, Carrie Rickwood, Curtis Eickhoff, Karen Lee, James Elphick",2019-11-29
+310,Journal/ Revue scientifique ,Assessing the fate and effect of metals in snow associated with atmospheric deposition in the oil sands region of Canada,"Carrie Rickwood, Yves Thibault, Sean Langley, Naveen Puttaswamy, Philippa Huntsman",2019-11-19
+311,Journal/ Revue scientifique ,Recent Progress in Impurity Removal During REE Processing,W.D. Judge and G. Azimi,2019-10-21
+312,Journal/ Revue scientifique ,The Effects of Water Recycling on Flotation at a North American Concentrator ‚Äì Part 1,"A. Di Feo, K Volchek,S. Mortazavi, S. Langley, Lucie Morin, G. Prabhakar and A. Demers  and I Bedard",2019-10-02
+313,Journal/ Revue scientifique ,Towards sustainable development of the Ring of Fire chromite resources,Dogan Paktunc,2019-09-23
+314,Journal/ Revue scientifique ,"Use of hardwood and sulfurized-hardwood biochars as amendments to floodplain soil from South River, VA, USA: Impacts of drying-rewetting on HG removal",Dogan Paktunc,2019-09-09
+315,Journal/ Revue scientifique ,Breaking Down Energy Consumption in Industrial Grinding Mills ,"J. Bouchard, G. LeBlanc, M. Levesque, P. Radziszewski, D.G. Filteau",2019-07-18
+316,Journal/ Revue scientifique ,Iron and sulphur management options during Ni recovery from (bio)leaching of pyrrhotite tailings Part 2: strategies for sulfur fixation during biomass-induced magnetization of  goethite and jarosite.,"Joanne Gamage McEvoy, Yves Thibault, Suzanne Beauchemin ",2019-07-09
+317,Journal/ Revue scientifique ,Partitioning of Cu and Ni during magnetization of oxidized pyrrhotite tailings,"S. Beauchemin, Y. Thibault, J. Gamage McEvoy and T. MacKinnon",2019-06-28
+318,Journal/ Revue scientifique ,GEOCHEMICAL PROPERTIES OF 40-YEAR OLD REFORESTED PYRRHOTITE TAILINGS AND IMPACT OF ORGANIC ACIDS ON METAL CYCLING ,"Suzanne Beauchemin*, Sean Langley and Ted MacKinnon ",2019-06-18
+319,Journal/ Revue scientifique ,A mineralogical investigation into the pre-concentration of the Nechalacho deposit by gravity separation,"Pengbo Chu, Chris Marion, Tassos Grammatikopoulos,Kristian Waters, et.al. ",2019-06-17
+320,Journal/ Revue scientifique ,A review of bubble break-up,"Pengbo Chu, James Finch, et. al. ",2019-06-17
+321,Journal/ Revue scientifique ,Iron and sulphur management options during Ni recovery from bioleaching of pyrrhotite tailings,"Yves Thibault, Joanne Gamage McEvoy, Suzanne Beauchemin",2019-04-14
+322,Journal/ Revue scientifique ,Alternative Cleaning and Regeneration Methods for Ceramic Membranes Exposed to Oil Sands Produced Water ,"Charbel Atallah/ Andr√© Tremblay, Saviz Mortazavi, Yves Thibault, Joanne Gamage McEvoy, Dominique Du",2019-03-19
+323,Journal/ Revue scientifique ,In-Process Steam Cleaning of Ceramic Membranes Used in the Treatment of Oil Sands Produced Water,"Charbel Atallah/ Andr√© Tremblay, Saviz Mortazavi, Yves Thibault, Joanne Gamage McEvoy, Dominique Du",2019-03-12
+324,Journal/ Revue scientifique ,Thermal stability of hydrophilic PEO-silane modified ceramic membranes,Charbel Atallah ,2019-03-04
+325,Journal/ Revue scientifique ,Effects of Collectors and Frothers on Copper and Molybdenum Coarse Particle Recoveries ‚Äì A Statistical Approach,T. Di Feo,2019-03-01
+326,Journal/ Revue scientifique ,"Iron and sulphur management options during Ni recovery from (bio)leaching of pyrrhotite tailings, Part 1:¬† mechanisms of¬† low-temperature transformation from goethite and jarosite to magnetic spinel.","Yves Thibault, Joanne Gamage McEvoy, Suzanne Beauchemin",2019-03-01
+327,Journal/ Revue scientifique ,Chemical Forms of Mercury in Pyrite: Implications for Predicting Mercury Releases in Acid Mine Drainage Settings,Dogan Paktunc,2019-02-27
+328,Journal/ Revue scientifique ,Kinetics and mechanisms of the carbothermic reduction of chromite in the presence of nickel,Dogan Paktunc,2019-02-27
+329,Journal/ Revue scientifique ,Effect of Collectors and Frothers onCopper and Molybdenum Coarse Particle Recoveries - A Statistical Approach ,"Tony Di Feo, Rolando Lastra",2019-02-06
+330,Journal/ Revue scientifique ,3D FREE FALL ROCK SIZE SENSOR,Magella Bilodeau,2019-01-21
+331,Journal/ Revue scientifique ,Comparison of Environmental Impacts of Deep-Sea Tailings Placement versus On-land Disposal,Y.T. John Kwong,2019-01-16
+332,Journal/ Revue scientifique ,Method Development for Determining the Removal of Metals from the Water Column under Transformation/Dissolution Conditions for Chronic Hazard Classification ,"Philippa Huntsman, Rob Beaudoin",2019-01-14
+333,Journal/ Revue scientifique ,Weight‚Äêof‚ÄêEvidence Approach for Assessing Removal of Metals from the Water Column for Chronic Environmental Hazard Classification,Philippa Huntsman ,2018-11-05
+334,Journal/ Revue scientifique ,Surface modified multi-lumen tubular membranes for SAGD produced water treatment,"Charbel Atallah, Saviz Mortazavi",2018-10-10
+335,Journal/ Revue scientifique ,Impact of crystal chemistry properties on the collector-mineral interactions observed for REE orthophosphates and oxides ,"Joanne Gamage McEvoy, Yves Thibault",2018-07-09
+336,Journal/ Revue scientifique ,Selective removal of uranium from rare earth leachate using functionalized magnetic solid-phase extraction,Laurence Whitty Leveill√©,2018-06-25
+337,Journal/ Revue scientifique ,Controlled dissolution experiments in the rare earth orthophosphate system: investigating fractionation pathways during caustic alkali cracking,"Yves Thibault, Joanne Gamage McEvoy",2018-05-10
+338,Journal/ Revue scientifique ,"Geochemical stability of acid-generating pyrrhotite tailings, 4 to 5 years after addition of oxygen-consuming organic covers","Suzanne Beauchemin, Sean Langley, Joyce Clemente, Yves Thibault",2018-03-28
+339,Journal/ Revue scientifique ,A comparative evaluation of the influences of alkali fluxes on direct reduction of chromite for ferrochrome production,"Dogan Paktunc, Yves Thibault, Samira Sokhanvaran, Dawei Yu",2018-02-21
+340,Journal/ Revue scientifique ,Carbothermic Reduction of Chromite Fluxed with Spent Potlining ,Dawei Yu ,2018-01-03
+341,Journal/ Revue scientifique ,Direct Production of Ferrochrome by Segregation Reduction of Chromite in the Presence of CAc12: II.  Reduction by Charcoal and Petroleum Coke and the Segregation Reduction Mechanism,"Dawei Yu, Dogan Paktunc",2017-11-01
+342,Journal/ Revue scientifique ,Direct Production of Ferrochrome by Segregation Reduction of Chromite in the Presence of CaC12_I. Reduction by Graphite,"Dawei Yu, Dogan Paktunc",2017-11-01
+343,Journal/ Revue scientifique ,Behaviour of the rare earths during goethite (Œ±-FeOOH) precipitation from sulphate-based solutions ,"J.E. Dutrizac, C. Soriano",2017-10-26
+344,Journal/ Revue scientifique ,Rapid and Selective Leachin of Actinides and Rare Earth Elements from Rare Earth-Bearing Minerals and Ores,"Laurence Whitty L√©veill√©, Nicolas Reynier, Dominic Lariviere",2017-10-24
+345,Journal/ Revue scientifique ,Atmospheric deposition of metal-bound dusts at mine sites ‚Äì understanding the contribution of snowmelt as a source of metals into lakes in the Val d‚ÄôOr mining region  ,Carrie Rickwood ,2017-10-18
+346,Journal/ Revue scientifique ,Selenate versus Selenite ‚Äì uptake into algae and trophic-transfer to Daphnia magna. ,Carrie Rickwood ,2017-10-18
+347,Journal/ Revue scientifique ,Assessing the long-term ecosystem productivity benefits and potential impacts of forests re-established on a mine tailings site ,"Suzanne Beauchemin, Sean Langley, Bryan Tisch",2017-09-27
+348,Journal/ Revue scientifique ,Rapid and Selective Leaching of Actinides and Rare Earth Elements from Rare Earth-Bearing Minerals ,"Laurence Whitty L√©veill√©, Nicolas Reynier, Dominic Lariviere",2017-09-25
+349,Journal/ Revue scientifique ,Transformations/Dissolution Characterization of Tungsten and Tungsten Compoiunds for Aquatic Hazard Classification.,"Philippa Huntsman-Mapila, J. Skeaff, M. Pawlak, R. Beaudoin",2017-08-28
+350,Journal/ Revue scientifique ,Kinetics and Mechanisms of the Carbothermic Reduction of Chromite in the Presence of Nickel,"Dawei Yu, Dogan Paktunc",2017-07-10
+351,Journal/ Revue scientifique ,Aqueous solubility of Cr(VI) compounds in ferrochrome bag filter dust and the implications thereof,Dogan Paktunc,2017-04-26
+352,Journal/ Revue scientifique ,Potential Consequences of Climate Change on  the Geochemistry and Biology at Canadian Metal Mines South of 60o Latitude ,Joyce Clemente,2017-03-16
+353,Journal/ Revue scientifique ,Silane Surface Modified Ceramic Membranes for the Treatment and Recycling of SAGD Produced Water ,Saviz Mortazavi,2017-01-30
+354,Journal/ Revue scientifique ,Thermal stability of hydrophilic PEO-silane modified ceramic membranes,Saviz Mortazavi,2017-01-30
+355,Journal/ Revue scientifique ,Characterization of fouling processes in ceramic membranes used for the recovery and recycle of oil sands produced water ,Yves Thibault,2017-01-06
+356,Journal/ Revue scientifique ,Water Recycle in Gold Nickel and Copper Minerals Flotation,Maziar Sauber,2017-01-06
+357,Journal/ Revue scientifique ,Removal of Metals from the Water Column under Transformation/Dissolution Conditions for Chronic Hazard Classification. ,Philippa Huntsman-Mapila,2016-12-01
+358,Journal/ Revue scientifique ,The behaviour of the rare earth elements during the precipitation of ferrihydrite from sulphate media,J.E. Dutrizac,2016-10-04
+359,Journal/ Revue scientifique ,A recent advance in ultrasonic monitoring of rockbolt condition monitoring ,Ren√©e Royer,2016-07-05
+360,Journal/ Revue scientifique ,A Holistic Approach of Green Mining Innovation in Tailings Reprocessing and Repurposing,Terry Cheng,2016-06-01
+361,Journal/ Revue scientifique ,Impact of 6 years of organic cover on metal mobility in acidic tailings,Suzanne Beauchemin,2016-04-12
+362,Journal/ Revue scientifique ,Characterization of leakage and air flow resistance in mine auxiliary ventilation ducts and their effect on running cost,Michelle Levesque,2016-03-02
+363,Journal/ Revue scientifique ,"Initial Biochar Properties Related to the Removal of As, Se, Pb, Cd, Cu, Ni and Zn from an Acidic Suspension¬†","Joyce Clemente, Suzanne Beauchemin",2016-02-11
+364,Journal/ Revue scientifique ,¬†Temperature Modeling of Cemented Radioactive Liquid Waste¬†,Fodhil Kassimi,2016-02-04
+365,Journal/ Revue scientifique ,Flotation-Magnetic Separation Hybride Process for Concentration of Rare Earth Minerals Contained in a Carbonate Ore¬†,Tesfaye Negeri,2016-02-04
+366,Journal/ Revue scientifique ,Low-pH Cementitious Matrices to Stabilize Cemented Radioactive Wastes¬†,Fodhil Kassimi,2016-02-04
+367,Journal/ Revue scientifique ,Solidification of a Residue from a Process of Extraction/Recovery of Hazardous Elements from a Previous Cemented Radioactive Waste¬†,Fodhil Kassimi,2016-02-04
+368,Journal/ Revue scientifique ,"CHARACTERIZATION, COMMINUTION, LEACHING AND ENCAPSULATION METHODS OF SURROGATE CEMENTED RADIOACTIVE WASTES¬†",Jean Fran√ßois Fiset,2016-02-02
+369,Journal/ Revue scientifique ,"Natural Shear Stresses in Rock Masses: Example of the Campbell-Red Lake gold deposit, Superior Province, Ontario, Canada¬†",Denis Labrie,2016-02-02
+370,Journal/ Revue scientifique ,An estimation of the variability in automated quantitative mineralogy measurements through inter laboratory testing,Rolando Lastra,2015-08-21
+371,Journal/ Revue scientifique ,COMPARISON OF URANIUM RECOVERY BY ION EXCHANGE FROM SULFURIC ACID LIQUOR IN IODIDE AND CHLORIDE MEDIA,Nicolas Reynier,2015-07-14
+372,Journal/ Revue scientifique ,"URANIUM, CESIUM, AND MERCURY LEACHING AND RECOVERY FROM CEMENTED RADIOACTIVE WASTES IN SULFURIC AND IODIDE MEDIA",Nicolas Reynier,2015-07-14
+373,Journal/ Revue scientifique ,"Optimization and validation of a chemical process for uranium, mercury and cesium leaching from cemented radioactive wastes.",Nicholas Reynier,2015-06-10
+374,Journal/ Revue scientifique ,Addressing the International Maritime Organisation Hazard Classification Requirements for Metals and Metal Compounds,Philippa Huntsman-Mapila,2015-05-06
+375,Journal/ Revue scientifique ,Bulk and micsro-scale inorganic composition of biochars and wood ash,Joyce Clemente,2015-04-30
+376,Journal/ Revue scientifique ,Adapting the Freshwater Transformation/Dissolution Protocol for Metals and Metal Compounds to Marine Systems: A Response to International Maritime Organization Hazard Classification,"Huntsman-Mapila, Philippa",2015-04-07
+377,Journal/ Revue scientifique ,Redox stability of aged biogenic iron oxide (BIOS),Sean Langley,2015-04-01
+378,Journal/ Revue scientifique ,Managing Long-term Orphaned Mine Liabilities:  Exploring the Relinquishment of Closed Sites,"Tremblay, Gilles",2015-03-23
+379,Journal/ Revue scientifique ,Presentation,"Tisch, Bryan",2015-03-06
+380,Journal/ Revue scientifique ,Phase Transformations in the Fe-As04-SO4 System and Structure of Amorphouse Ferric Arsenate: Implications for Arsenic Stabilization in Mine Drainage and Industrial Effluents,"Paktunc, Dogan",2015-03-02
+381,Journal/ Revue scientifique ,Development of Waterborne Selenium Screening Guidelines for Freshwater Systems,"Rickwood, Carrie",2015-01-16
+382,Journal/ Revue scientifique ,"Biochars as metal ""sorbents"" for mine waste management","Beauchemin, Suzanne",2015-01-15
+383,Journal/ Revue scientifique ,Investigation into the Fate and Effects of Selenium on the Benthic Invertebrate (Chironomus dilutus),"Rickwood, Carrie",2014-11-28
+384,Journal/ Revue scientifique ,Revisiting the wavelength-dispersive M emission spectra of the lanthanides for the electron probe X-ray microanalysis of minor to trace concentrations at optimal spatial resolution,"Thibault, Yves",2014-08-29
+385,Journal/ Revue scientifique ,"Synthesis, characterization and thermodynamics of arsenates forming in the Ca-Fe(III)-As(V)-NO3 system: Implications on the stability of Ca-Fe arsenates","Paktunc, Dogan",2014-07-31
+386,Journal/ Revue scientifique ,"Root length of aquatic plant, Lemna minor L., as an optimal endpoint for biomonitoring of mining effluents","Vigneault, Bernard",2014-07-22
+387,Journal/ Revue scientifique ,Noise and vibration: Workers Exposure in Quebec Underground Mines,"Leblanc, Gilles",2014-06-02
+388,Journal/ Revue scientifique ,Metal Leaching in Mine Tailings: Short-term Impact of Biochar and Wood Ash Amendments,"Beauchemin, Suzanne",2014-04-17
+389,Journal/ Revue scientifique ,"Transformation/Dissolution Examination of Tungsten and Tungsten Compounds, with Speciation of the T/D Solutions",J.M. Skeaff,2014-02-13
+390,Journal/ Revue scientifique ,"""Zinc in House Dust: Speciation, Bioaccessibility and Impact of Humidity """,S. Beauchemin,2013-12-18
+391,Journal/ Revue scientifique ,Assessing the fate and toxicity of Thallium I and Thallium III to Three Aquatic Organisms,C.J. Rickwood,2013-10-24
+392,Journal/ Revue scientifique ,Noise and Vibration:  Mine Workers Exposure in Quebec Underground Mines,M. Laflamme,2013-10-08
+393,Journal/ Revue scientifique ,Transformation/Dissolution Examination of a Nickel Matte and Concentrates for Acute and Chronic Hazard Classification,J.M. Skeaff,2013-10-02
+394,Journal/ Revue scientifique ,T/D Nickel Concentrates ... (CR),"Skeaff, Jim",2013-09-13
+395,Journal/ Revue scientifique ,Arsenic¬†Speciation¬†and¬†the¬†Controls on its Release in¬†Contaminated Sediments¬†and Corresponding Toxicological Effects,Tyler Nash,2013-06-10
+396,Journal/ Revue scientifique ,Adaptation of the freshwater transformation/dissolution protocol to marine systems,P. Huntsman-Mapila,2013-05-17
+397,Journal/ Revue scientifique ,Mineralogical Characterizationn of Sieved and Unsieved Samples,R. Lastra and W. Petruk,2013-05-01
+398,Other Publication/ Autres publications,CIM President's Note: Back to the Future: One to Grow On,Janice Zinck,2021-09-01
+399,Other Publication/ Autres publications,Cr(VI) in ferrochrome smelter dusts from pilot-scale DC arc furnace,"Eleanor. J. Berryman, Dogan Paktunc, and David Kingston",2020-04-30
+400,Other Publication/ Autres publications,Treatment and Recycling of Mining Wastewaters Using a Hybrid Electrocoagulation-Ceramic Membrane Filtration Process,"Charbel Atallah, S. Mosadeghsedghi, M. Hudder,  M. Mostajeran, K. Volchek, S. Mortazavi",2020-02-17
+401,Other Publication/ Autres publications,Turning Waste to Value: Selective Recovery of Rare Earth Elements from Coal Fly Ash with Ion Exchange Technologies,"Mehdi Mostajeran, Jean-Michel Bondy and Rory Cameron",2020-01-06
+402,Other Publication/ Autres publications,REPROCESSING OF HISTORIC GOLD MINE TAILINGS IN NOVA SCOTIA USING CHLORIDE HYDROMETALLURGY,"Terry Cheng, Michael Parsons",2020-01-03
+403,Other Publication/ Autres publications,Evaluating the transport and fate of metal bearing tailings dust,"Philippa Huntsman, Carrie Rickwood",2019-12-02
+404,Other Publication/ Autres publications,Laboratory Investigation and Comparison of Direct Shear Testing Procedures using Induced Discontinuities in Sandstone,Steven Gaines,2019-11-13
+405,Other Publication/ Autres publications,Reducing Tire Related Downtime - How tire stock management and fitment strategy impact truck availability,Emmalie Tomini,2019-10-28
+406,Other Publication/ Autres publications,CIM President's Note: A Privilege and a Pleasure,Janice Zinck,2019-05-01
+407,Other Publication/ Autres publications,The value of volunteering and networking,Janice Zinck,2019-04-17
+408,Other Publication/ Autres publications,Leveraging our Technical Expertise,Janice Zinck,2019-04-03
+409,Other Publication/ Autres publications,Ventilation benefits for using electric equipment in underground mines ‚Äì VOD system evaluation ,Gary Li,2019-04-03
+410,Other Publication/ Autres publications,NRCan Driving Innovation,Janice Zinck,2019-04-02
+411,Other Publication/ Autres publications,CIM President's Note: There must be a better way,Janice Zinck,2019-03-01
+412,Other Publication/ Autres publications,"Campbell, P and W. Price 2018 How to Assess Potential Biological Effects of Subaqueous Disposal of Mine Tailings - Literature Review and REcommended Tools and Methodologies, MEND Report 2.19.1",Bill Price,2019-02-22
+413,Other Publication/ Autres publications,CIM President's Note: Is there an upside to risk?,Janice Zinck,2019-02-01
+414,Other Publication/ Autres publications,CIM President's Note: Building the Next Generation of Miners: A Call to Action,Janice Zinck,2018-12-01
+415,Other Publication/ Autres publications,CIM President's Note: You are only as strong as your weakest link,Janice Zinck,2018-11-01
+416,Other Publication/ Autres publications,Changing perceptions through greener mining,Janice Zinck,2018-10-23
+417,Other Publication/ Autres publications,CIM President's Note: A Plan for Our Future,Janice Zinck,2018-08-01
+418,Other Publication/ Autres publications,R√©sultat de l‚Äôutilisation d‚Äôun c√¢ble synth√©tique pour le hissage minier √† la mine Goldex - Addendum,Martin Cote,2018-07-19
+419,Other Publication/ Autres publications,CIM President's Note: Back to the Future: Learning from Past Greats in Our Industry,Janice Zinck,2018-06-01
+420,Other Publication/ Autres publications,"REE-3, a certified reference for an ore with rare earth elements and zirconium ",Maureen Leaver,2018-04-17
+421,Other Publication/ Autres publications,New Test Method II  - Development of a Laboratory Procedure for Testing Ground Support in Shear,Ren√©e Royer,2018-03-20
+422,Other Publication/ Autres publications,One Industry's Waste is Another Industry's Resource,Sean Langley and Suzanne Beauchemin,2017-12-07
+423,Other Publication/ Autres publications,Summary of CMIN research at Vale 2016-2018: III Willows,"Bryan Tisch, Suzanne Beauchemin, Joyce Clemente, Sean Langley",2017-09-29
+424,Other Publication/ Autres publications,Inventory of Technical Expertise for Chromite in Canada - Hatch ,Bryan Tisch ,2017-03-17
+425,Other Publication/ Autres publications,Review of Environmental Practices for the Management of Cr (VI) in the Chromite Mining and Smelting Industry: relevance to the development of the Ring of fire - Hatch,Bryan Tisch ,2017-03-17
+426,Other Publication/ Autres publications,The impact of duct friction factors and leakage in design of auxiliary ventilation systems,Michelle Levesque,2016-05-12
+427,Other Publication/ Autres publications,"Innovation in Mine Water Management: Remote, Real-time Sensors for Water Quality Monitoring",Philippa Huntsman-Mapila,2016-04-22
+428,Other Publication/ Autres publications,Development of Analytical Capabilities in Genomics and Application to the Study of Mine Tailings Reclamation,Sean Langley,2016-04-05
+429,Other Publication/ Autres publications,Evaluation of different membrane separation processes for treatment of Acid Mine Drainage and Mine effluents,Saviz Mortazavi,2016-03-19
+430,Other Publication/ Autres publications,Application of Ceramic Membranes in Treatment of Oil Sand Produced Water,Saviz Mortazavi,2016-03-18
+431,Other Publication/ Autres publications,Preliminary Investigation on the Aerosolizable Fraction of Biochar¬†,Suzanne Beauchemin,2016-02-06
+432,Other Publication/ Autres publications,Source and Distribution of Naturally Occurring Arsenic in Groundwater from Alberta‚Äôs Southern Oil Sands Regions¬†,Yves Thibault,2016-01-28
+433,Other Publication/ Autres publications,¬†Reductive Dissolution of Arsenical Ferrihydrite by Bacteria¬†,Dogan Paktunc,2016-01-27
+434,Other Publication/ Autres publications,Reductive Dissolution of Scorodite in the Presence of Shewanella sp. CN32 and Shewanella sp. ANA-3¬†,Dogan Paktunc,2016-01-27
+435,Other Publication/ Autres publications,"The Mineral and Aqueous Evolution of Sulfur and Nickel with Weathering of Pyrrhotite in a Low Sulfide, Granitic Waste Rock¬†",Dogan Paktunc,2016-01-27
+436,Other Publication/ Autres publications,Comments on the paper entitled ‚ÄúRadionuclide release from simulated waste material after biogeochemical leaching of uraniferous mineral sample,Nand Dav√©,2015-11-09
+437,Other Publication/ Autres publications,Comments on the paper entitled ‚ÄúRadionuclide release from simulated waste material after biogeochemical leaching of uraniferous mineral samples‚Äù ,Nand Dav√©,2015-09-11
+438,Other Publication/ Autres publications,Biological Recovery of Freshwater and Marine Habitats Containing Submerged Mine Tailings,Nand Dave,2015-06-25
+439,Other Publication/ Autres publications,The Assessment Of Specialized Clothing Worn By Underground Miners And Its Heat Stress Management Implications,Stephen Hardcastle,2015-06-18
+440,Other Publication/ Autres publications,Sequential Extraction of Radium from Uranium Mine Tailings,J.F. Fiset,2015-05-08
+441,Other Publication/ Autres publications,Mounting of Co cathode sections in Epofix for T/D examination,"Huntsman-Mapila, Philippa",2015-02-17
+442,Other Publication/ Autres publications,Proposal for a Four Year Production Plan for Canadian Certified Reference Materials Project,"Leaver, Maureen",2015-01-13
+443,Other Publication/ Autres publications,Potential of Biochar for Reclaiming Mine Tailings: Summary Report of the Basic Properties of Thirteen Biochars,"Beauchemin, Suzanne",2014-04-17
+444,Other Publication/ Autres publications,REE-1:  Preparation of a Certified Reference Material,"Leaver, Maureen",2014-04-03
+445,Poster/Affiche ,Lichens as dust and air quality biomonitors at a contaminated mine site in Nova Scotia,"Michael Smith, Linda Campbell (Saint Mary's University), Gauri Prabhakar (CMIN",2020-10-29
+446,Poster/Affiche ,Stability of Ring of Fire Slag and its Potential as a Construction Material,Dogan Paktunc,2020-09-01
+447,Poster/Affiche ,Understanding Cr oxidation in ferrochrome smelter dusts,Eleanor Berryman,2020-01-28
+448,Poster/Affiche ,Stability of Ring of Fire slag and its potential as a construction material,"Eleanor Berryman, Dogan Paktunc, Tanai Marin",2020-01-06
+449,Poster/Affiche ,Gallium ‚Äì Too Little to Keep or Too Much to Waste?,"Terry Cheng, Jennifer Evans",2020-01-03
+450,Poster/Affiche ,Tracking Dust Under a Changing Climate: Investigating the environmental fate and effect of dust-bound metals from abandoned mine sites ,"Carrie Rickwood, Philippa Huntsman, Stephanie Desisto, Amy Cleaver, Heather Jamieson",2019-11-19
+451,Poster/Affiche ,Use of remote sensors to monitor changes in water quality in a metal-contaminated stream,Carrie Rickwood,2019-11-19
+452,Poster/Affiche ,Effects of tailings dust on surface water chemistry,"Amy Cleaver, Heather Jamieson, Carrie Rickwood, Philippa Huntsman",2019-10-29
+453,Poster/Affiche ,Tracking water quality in a changing climate,"C. B. Miller, Philippa Huntsman, R. F. Bouwhuis, Carrie Rickwood",2019-10-28
+454,Poster/Affiche ,Big Data and AI platform for mining,Michelle Levesque,2019-04-08
+455,Poster/Affiche ,Design of a magnetic adsorbent bearing Schiff base ligand as a highly efficient removal technique for uranium in aqueous solutions,Laurence Whitty Leveill√©,2019-02-27
+456,Poster/Affiche ,Machine Learning for Microseismic Event Classification,Todd McDonald,2019-02-06
+457,Poster/Affiche ,Use of Data Analytical Tools in Techno-economic Assessment (TEA) on Tailings Reprocessing Options based on Published Mine Data,Terry Cheng,2019-02-06
+458,Poster/Affiche ,AI FOR IMPROVING THE EXPLORATION TO PRODUCTION PROCESS IN MINING ,Michelle Levesque,2019-02-05
+459,Poster/Affiche ,APPLICATION OF EMERGING DIGITAL TECHNOLOGIES IN THE MINING SECTOR,Michelle Levesque,2019-02-05
+460,Poster/Affiche ,Design of a magnetic adsorbent bearing schiff base ligand as a highly efficient removal technique for uranium in leaching solutions,"Laurence Whitty-Leveille, Nicolas Reynier, Dominic Lariviere",2019-01-17
+461,Poster/Affiche ,Separation of Lanthanides and Actinides Using Ion Exchange from Sulfate and Nitric REE leachate,"Maxime Courchesne, Cheryl Laviolette, Nicolas Reynier, Dominic Lariviere",2019-01-17
+462,Poster/Affiche ,Improving Energy Performance in the Mining Sector using the NRCan Benchmarking Program and Artificial Intelligence ,Michelle Levesque,2018-11-13
+463,Poster/Affiche ,Selenate versus selenite - uptake by algae and trophic-transfer to Daphnia magna,"Rickwood, Carrie; King, Morgan; Suominen, Emily; Prabhakar, Gauri",2018-11-07
+464,Poster/Affiche ,Impacts of water Table Level on Mine Waste Management Using a Saturated Cover,"Nicolas Reynier, Roselyne Gagne-Turcotte",2018-10-30
+465,Poster/Affiche ,Gold Recovery and Liability Reduction from Reprocessing Historical Mine Tailings in Nova Scotia,"Terry Cheng, Michael Parsons",2018-09-11
+466,Poster/Affiche ,Green processing of Canadian REE ores by combining attrition and lixiviation,"Nicolas Reynier, Cheryl Laviolette, Magella Bilodeau, Andr√© Demers",2017-05-19
+467,Poster/Affiche ,Removal of Metals from the Water Column under Transformation/Dissolution Conditions for Chronic Hazard Classification ,"Philippa Huntsman-Mapila, Rob Beaudoin",2017-04-27
+468,Poster/Affiche ,Retrospectively assessing a historical reclaimed mining site for carbon benefits ,Suzanne Beauchemin,2017-02-03
+469,Poster/Affiche ,Accelerated leaching and recovery process for actinides-free separation of rare earth element,Whittey-L√©v√©ill√©,2016-07-01
+470,Poster/Affiche ,Application of the Transformation/Dissolution Protocol to determine the rate and extent of removal of metals from the water column for chronic hazard classification.,Philippa Huntsman-Mapila,2015-11-17
+471,Poster/Affiche ,Examination of the Removal of Metals from the Water Column under Transformation/Dissolution Conditions for Chronic Aquatic Hazard Classification.,Philippa Huntsman-Mapila,2015-10-28
+472,Poster/Affiche ,RECOVERY OF RARE EARTH ELEMENTS FROM MINING AND MINERAL PROCESSING,Rory Cameron,2015-10-08
+473,Poster/Affiche ,A new approach to the aquatic hazard classification of massive-form metals,Philippa Huntsman-Mapila,2015-09-25
+474,Poster/Affiche ,Stirred-tank Bioleaching of Pyrrhotite Tailings,"Cameron, Rory",2015-02-04
+475,Poster/Affiche ,Microbial Community in Acidic Tailings Reclaimed with Organic Cover,"Clemente, Joyce",2015-01-27
+476,Poster/Affiche ,Metal Sequestration in biochar suspensions,"Clemente, Joyce",2014-06-05
+477,Poster/Affiche ,Determining the effect of a reduced YCT diet on the Ceriodaphnia dubia sub-lethal toxicity test in soft water in relation to the MMER-EEM Program.,"King, Morgan",2014-05-26
+478,Poster/Affiche ,Strategy for Efficient High-spatial Resolution X-ray Microanalysis of Trace REE in Complex Systems,"Thibault, Yves",2014-04-24
+479,Presentation/PrÈsentation,Assessing the fate of metal-bearing tailings dust from two abandoned mine sites,"Michael Smith, Linda Campbell",2021-02-23
+480,Presentation/PrÈsentation,Streamlining the mine permitting process,"Laura Thomas, Michelle Levesque, Rawya Tsuji",2021-02-12
+481,Presentation/PrÈsentation,Evaluating the transport and fate of metal-bearing tailings dust into surface water: Focus on Cd deposition ,"Amy Cleaver, Philippa Huntsman, Carrie Rickwood ",2021-02-10
+482,Presentation/PrÈsentation,Understanding Ground Support Behavious for Improved Mine Safety: A Review of Static and Dynamic Testing at CanmetMINING's Ground Control Lab,"Devan MacDonald, Steve Gaines",2021-01-18
+483,Presentation/PrÈsentation,Optimization of a Green Eluent for Scandium with Significantly Improved Elution Efficiency,Mehdi Mostajeran and Rory Cameron,2021-01-07
+484,Presentation/PrÈsentation,Concept presentation: Mining complex waste heat recovery,Yan Germain,2020-12-02
+485,Presentation/PrÈsentation,Pr√©sentation de concept :R√©cup√©ration de chaleur sur les complexes miniers,Enrique Acuna-Duhart,2020-12-02
+486,Presentation/PrÈsentation,Digital Streamlining Technologies for Mining Regulatory Processes Workshop Report,"Laura Thomas, Rawya Tsuji, Julie Deriaz, Emmalie Tomini, Michelle Levesque",2020-11-27
+487,Presentation/PrÈsentation,Windblown Tailings Dust as a Source of Metal to Surface Water  ,"Heather Jamieson, Amy Cleaver, Philippa Huntsman, Carrie Rickwood, Alex Bailey",2020-11-26
+488,Presentation/PrÈsentation,Smart Support for Better Ground Control,"Yves Quenneville, NRC; Zhigang Sun, NRC; Ren√©e Royer, CMIN; Lindsay Smith-Boughner, ESG Solutions",2020-11-16
+489,Presentation/PrÈsentation,Development of new laboratory methods on ground support for underground mining applications,Devan MacDonald and William Render,2020-11-12
+490,Presentation/PrÈsentation,Digital Streamlining Technologies for Mining Regulatory Processes,Emmalie Tomini Connie Smith,2020-11-04
+491,Presentation/PrÈsentation,Draft Canadian Federal Water Quality Guidelines for Rare Earth Elements,"Sushil Dixit (ECCC), Josh Baker and James Elphick (Nautilus Environmental)",2020-10-27
+492,Presentation/PrÈsentation,A 47 Year ‚Äì Reputation for Excellence: Canadian Certified Reference Materials Project and Proficiency Testing Program ‚Äì Mineral Analysis Laboratories,"Maureen Leaver, Diane Desrochers, Jeffrey Scott",2020-10-13
+493,Presentation/PrÈsentation,Where There's a Wheel There's a Way,"John Le, Enrique Acuna-Duhart, Mark Goode",2020-10-07
+494,Presentation/PrÈsentation,REE solubility and the influence of food in chronic toxicity testing,"Josh Baker, Karen Lee, James Elphick (Nautilus - external)",2020-09-30
+495,Presentation/PrÈsentation,Toxicity of REEs and the issue of solubility,"Josh Baker, Karen Lee, James Elphick (Nautilus - external)",2020-09-30
+496,Presentation/PrÈsentation,CCRMP and PTP-MAL Highlights FY 2019 to 2020 for Technical Advisory Committee,"Maureen Leaver, Diane Desroches and Jeffrey Scott",2020-09-24
+497,Presentation/PrÈsentation,Streamlining Regulatory Review of  Mining Projects,Connie Smith,2020-09-14
+498,Presentation/PrÈsentation,Cr oxidation in Ring of Fire ferrochrome smelter dusts,Dogan Paktunc,2020-09-01
+499,Presentation/PrÈsentation,Cr(VI) in ferrochrome smelter dusts from pilot-scale DC arc furnace,"Eleanor Berryman, Dogan Paktunc, David Kingston",2020-05-27
+500,Presentation/PrÈsentation,An Approach to Monitoring Dust in Environmentally Sensitive Areas,"Angela Pickett, Philippa Huntsman, Peter WHite, Carrie RIckwood",2020-04-23
+501,Presentation/PrÈsentation,Developing Data Driven Planning Strategies for Haulage Fleet,"Emmalie Tomini, John Le, Enrique Acuna",2020-04-01
+502,Presentation/PrÈsentation,Recovery options for iron and sulphur produced during nickel extraction from (bio)leaching of pyrrhotite tailings,"Joanne Gamage McEvoy, Yves Thibault, Suzanne Beauchemin",2020-03-04
+503,Presentation/PrÈsentation,Alternative to acid baking water leaching:  Acid soaking water leaching of REE bearing ore samples,"Chen Xia, Wesley Griffith, Ceferino Soriano, Eden Barry",2020-01-13
+504,Presentation/PrÈsentation,Cr oxidation in Ring of Fire ferrochrome smelter dusts,"Eleanor Berryman, Dogan Paktunc, David Kingston",2020-01-06
+505,Presentation/PrÈsentation,Quantifying the extent of metallization following the Direct Reduction of Chromite (DRC),"Nail R. Zagrtdenov, Dogan Paktunc, Nasseh Khodaie, Eleanor Berryman",2020-01-06
+506,Presentation/PrÈsentation,THE PROGRESS FOR THE APPLICATION OF HYDROGEN POWER FOR UNDERGROUND MINING VEHICLES,Dr. Marc B√©tournay,2019-11-28
+507,Presentation/PrÈsentation,Towards Deployment of Vehicle Hydrogen Power by the Canadian Mining Industry,Dr Marc B√©tournay,2019-11-26
+508,Presentation/PrÈsentation,The issue of REE solubility in determining toxicity thresholds,"Carrie Rickwood, Josh Baker, James Elphick",2019-11-19
+509,Presentation/PrÈsentation,Lignes directrices de l'utilisation de l'hydrog√®ne dans les mines,"Gilles LeBlanc, Marc B√©tournay",2019-11-14
+510,Presentation/PrÈsentation,Investigating climate change impacts on metal contaminated sediments,"Carrie Rickwood, Stephanie DeSisto, Emily Suominen, Philippa Huntsman",2019-11-04
+511,Presentation/PrÈsentation,Understanding the fate and effects of metal-bound dusts at abondoned mine sites,"Carrie Rickwood, Heather Jamieson, Amy Cleaver, Philippa Huntsman",2019-11-04
+512,Presentation/PrÈsentation,An overview of the findings of using a high-performance synthetic cable for mine hoisting,Martin Cote,2019-10-21
+513,Presentation/PrÈsentation,Use of biomonitoring and remote sensing to track mine dust in a changing climate,"Philippa Huntsman, Carrie Rickwood",2019-10-17
+514,Presentation/PrÈsentation,A Quick Introduction to Sulphidic Rock Drainage at Mine Sites,Bill Price,2019-10-16
+515,Presentation/PrÈsentation,Ecosystem risk management for mines in Canada: Adapting to a changing climate ,Philippa Huntsman   Carrie Rickwood,2019-10-08
+516,Presentation/PrÈsentation,New Tech - The Green Mines of Tomorrow ,Janice Zinck,2019-10-07
+517,Presentation/PrÈsentation,Contribution of CCRMP to REE Analysis,Maureen Leaver,2019-10-03
+518,Presentation/PrÈsentation,Mining Innovation Imperative,Janice Zinck,2019-10-01
+519,Presentation/PrÈsentation,Summary of Worldwide Underground  Mine Diesel Regulations,Mahe Gangal,2019-10-01
+520,Presentation/PrÈsentation,Canada‚Äôs REE R&D Program,Janice Zinck and Bryan Tisch,2019-09-24
+521,Presentation/PrÈsentation,Recycling of Thickener Tank Overflow Stream at a North American Concentrator,"T. Di Feo, S. Mortazavi, L. Morin and A. Demers",2019-09-12
+522,Presentation/PrÈsentation,Development and testing of the CMIN-BCM for monitoring borehole closure in underground environments,"Steven Gaines, Ken Judge, Denis Labrie",2019-09-04
+523,Presentation/PrÈsentation,CCRMP and PTP-MAL Highlights ,"Maureen Leaver, Diane Desroches and Lyne Lortie ",2019-08-06
+524,Presentation/PrÈsentation,Machine Learning for Microseismic Event Classification,"Michelle Levesque, Todd McDonald",2019-08-06
+525,Presentation/PrÈsentation,Environmental risk management for mines in Canada: Adapting to a changing climate,Philippa Huntsman and Carrie Rickwood,2019-07-25
+526,Presentation/PrÈsentation,Application of High Performance Synthetic Ropes for Mine Hoisting,Martin C√¥t√©,2019-07-19
+527,Presentation/PrÈsentation,A promising approach to accelerate rehabilitation and generate value from sulfidic tailings,"Bryan Tisch, Suzanne Beauchemin, Sean Langley and Juha Metsaranta",2019-06-12
+528,Presentation/PrÈsentation,Optimizing Zr and REE recovery from zircon through a better understanding of the mechanisms governing its decomposition in alkali media,"Yves Thibault, Joanne Gamage McEvoy and Dominique Duguay",2019-06-10
+529,Presentation/PrÈsentation,Crushing the Consumption Conundrum,Janice Zinck,2019-05-02
+530,Presentation/PrÈsentation,A promising approach to accelerate rehabilitation and generate value from sulfidic tailings,"Bryan Tisch, Suzanne Beauchemin, Sean Langley, Juha Metsaranta",2019-04-26
+531,Presentation/PrÈsentation,Mining Value from Waste - Building a pan-Canadian effort,Bryan Tisch ,2019-04-26
+532,Presentation/PrÈsentation,Big Data and AI Platform for mining,Michelle Levesque,2019-04-25
+533,Presentation/PrÈsentation,Developing a process to recover rare earth elements and scandium from coal fly ash,"Rory Cameron, Yves Thibault, Rolando Lastra, Alain Bilodeau, Jean-Michel Bondy",2019-04-10
+534,Presentation/PrÈsentation,Reducing energy and GHG emissions in mining,Michelle Levesque,2019-04-05
+535,Presentation/PrÈsentation,Tracking water quality in a changing climate,"Miller C, Huntsman P, Bouwhuis R, Rickwood C",2019-04-02
+536,Presentation/PrÈsentation,Canadian Rare Earth Elements R&D Program,"Janice Zinck, Bryan Tisch, Ian London (CREEN)",2019-03-10
+537,Presentation/PrÈsentation,Cumulative effects of sediment resuspension events ‚Äì the impact of climate change on sediment-bound metals ,"Stephanie DeSisto, Carrie Rickwood, Philippa Huntsman",2019-03-06
+538,Presentation/PrÈsentation,Geochemical response of contaminated lake sediments to climate change associated storm resuspension,Stephanie DeSisto,2019-03-06
+539,Presentation/PrÈsentation,Impact of metal-bearing lake sediment resuspension events under future climate change scenarios ,Stephanie DeSisto,2019-03-06
+540,Presentation/PrÈsentation,Mineralogical and hydrogeochemical review of abandoned gold mine sites in Nova Scotia,Stephanie DeSisto,2019-03-06
+541,Presentation/PrÈsentation,Canadian mining innovation: Advancing through collaboration and sustainability,Janice Zinck,2019-03-01
+542,Presentation/PrÈsentation,Canadian mining innovation: Advancing through collaboration and sustainability,Janice Zinck,2019-03-01
+543,Presentation/PrÈsentation,Fast Growing Willows and Organic Covers,Bryan Tisch ,2019-03-01
+544,Presentation/PrÈsentation,Mining Value from Waste,Bryan Tisch ,2019-03-01
+545,Presentation/PrÈsentation,Mining Value from Waste: Transitioning to a Circular and Low Carbon Economy,Bryan Tisch ,2019-03-01
+546,Presentation/PrÈsentation,Mining Value from Waste: Transitioning to a Circular and Low Carbon Economy,Janice Zinck,2019-03-01
+547,Presentation/PrÈsentation,Overview of Canadian Chomite R&D Program,Bryan Tisch ,2019-03-01
+548,Presentation/PrÈsentation,Transforming Risk into Opportunity,Janice Zinck,2019-03-01
+549,Presentation/PrÈsentation,Experimental assessment of brine and impure CO2 leakage through well cements at reservoir conditions,Nadia Shafie Zadeh,2019-02-27
+550,Presentation/PrÈsentation,"focus on improvement in near-zero emission power, steam and heat generation systems",Nadia Shafie Zadeh,2019-02-27
+551,Presentation/PrÈsentation,Investigating climate change impacts on metal contaminated sediments,Carrie Rickwood ,2019-02-27
+552,Presentation/PrÈsentation,Ministry Of Labour Ventilation Hygiene Sub-committee Meeting invitation to make presentation on ‚ÄúDiesel Certification and Approval for Underground Mining Engines in Canada‚Äù.,Brent Rubeli,2019-02-27
+553,Presentation/PrÈsentation,NRCan Se research update,Carrie Rickwood ,2019-02-27
+554,Presentation/PrÈsentation,R√©cup√©ration de chaleur sur l‚Äôeau de proc√©d√© d‚Äôun concentrateur minier ,Yan Germain,2019-02-27
+555,Presentation/PrÈsentation,Reprocessing of Gold Mine Tailings,Terry Cheng,2019-02-27
+556,Presentation/PrÈsentation,Towards sustainable development of the Ring of Fire chromite resources,Dogan Paktunc,2019-02-27
+557,Presentation/PrÈsentation,"Tracking dust under a changing climate: Coupling biogeochemistry, mineralogy and toxicity to assess cumulative mine site impacts",Carrie Rickwood ,2019-02-27
+558,Presentation/PrÈsentation,Understanding the fate and effects of metal-bound dusts at abandoned mine sites,Carrie Rickwood ,2019-02-27
+559,Presentation/PrÈsentation,NRCan Annual Metal Leaching Acid Rock Drainage Field School ,Bill Price,2019-02-21
+560,Presentation/PrÈsentation,REE recovery from secondary sources,Rory Cameron,2019-02-11
+561,Presentation/PrÈsentation,Mining Disrupted: A Guide to Finding the Upside,Janice Zinck,2019-02-07
+562,Presentation/PrÈsentation,Developing a process to recover rare earth elements and scandium from coal fly ash ,Rory Cameron,2019-02-06
+563,Presentation/PrÈsentation,Canadian Certified Reference Materials Project and Proficiency Testing Program ‚Äì Mineral Analysis Laboratories,Maureen Leaver,2019-02-04
+564,Presentation/PrÈsentation,Environmental risk management for mines in Canada: Adapting to a climate change ,"Philippa Huntsman, Carrie Rickwood",2019-01-15
+565,Presentation/PrÈsentation,REE recovery from secondary sources (Dec. 2018),Rory Cameron,2018-12-10
+566,Presentation/PrÈsentation,Organic Covers on Tailings: Effects and Economic Returns,"Sean Langley, Suzanne Beauchemin, Bryan Tisch, Joyce Clemente",2018-11-21
+567,Presentation/PrÈsentation,Removal of Metals from the Water Column for Chronic Hazard Classification: Rationale for selecting test parameters in the extended transformation dissolution protocol ,"Huntsman, Philippa; Beaudoin, R.; Rader, K. J.; Carbonaro, R. F.; Hudson, M.; Burton, G. A.; Baken, ",2018-11-08
+568,Presentation/PrÈsentation,Canadian mining innovation: Advancing through collaboration and sustainability,Janice Zinck,2018-11-04
+569,Presentation/PrÈsentation,Green Mining: Oxymoron or Opportunity,Janice Zinck,2018-10-30
+570,Presentation/PrÈsentation,Transforming Risk into Opportunity,Janice Zinck,2018-10-25
+571,Presentation/PrÈsentation,Impacts of climate change on mine wastes management by saturated and water covers,Nicolas Reynier,2018-10-22
+572,Presentation/PrÈsentation,Ventilation Constraint Solutions - Meet Airflow Demand for Specified Mine Operation Scenarios,Gary Li,2018-10-09
+573,Presentation/PrÈsentation,CCRMP and PTP-MAL Highlights 2017-2018,"D. Desroches, M. Leaver, L. Lortie",2018-09-21
+574,Presentation/PrÈsentation,√âlectrification : les b√©n√©fices de l'adoption des v√©hicules miniers √©lectriques,Michelle Levesque,2018-09-11
+575,Presentation/PrÈsentation,Update on the NRCan Mine Energy Benchmarking Program,Michelle Levesque,2018-09-06
+576,Presentation/PrÈsentation,Microwave-assisted mechanical equipment in mining industry,Pejman Nekoovaght,2018-06-27
+577,Presentation/PrÈsentation,"Microwave-Assisted Acid Digestion for the Determination of Al, Cr, Fe, Mg and Si in Chromite Samples by ICP-OES","Ruping Wang, Duane Palmer, Marchin Pawlak, Stephen Rennick",2018-06-08
+578,Presentation/PrÈsentation,Mining Value from waste: From concept to reality,"Rory Cameron, Janice Zinck",2018-05-29
+579,Presentation/PrÈsentation,Ceramic membrane application in recovery and recycling of water in oil sands operations,"Saviz Mortazavi, Charbel Atallah, Andr√© Tremblay, Alex Doiron, Matthew Hudder",2018-05-28
+580,Presentation/PrÈsentation,CMIN research at Vale: Summary for 2015-2017 and proposal for 2018-2021,Sean Langley,2018-05-09
+581,Presentation/PrÈsentation,Growing hybrid willows on tailings: A viable approach?,Suzanne Beauchemin,2018-04-25
+582,Presentation/PrÈsentation,REE recovery from secondary sources (April. 2018),Rory Cameron,2018-04-24
+583,Presentation/PrÈsentation,Microwave-assisted mechanical equipment in mining industry,Pejman Nekoovaght,2018-04-09
+584,Presentation/PrÈsentation,Fast-growing willows and organic cover: A promising approach to accelerate rehabilitation and generate value from sulfidic tailings?,Suzanne Beauchemin,2018-04-04
+585,Presentation/PrÈsentation,Going undercover to remediate historical gold mine waste ,Stephanie DeSisto,2018-03-27
+586,Presentation/PrÈsentation,Ceramic membrane application in recovery and recycling of water in in-situ oil sands operations,"Saviz Mortazavi, Charbel Atallah, Andr√© Tremblay, Alex Doiron",2018-03-15
+587,Presentation/PrÈsentation,Greenhouse Gas (GHG) Emissions from Underground Mining Engines ,"Brent Rubeli, Mahe Gangal, David Young",2018-03-15
+588,Presentation/PrÈsentation,The NRCan Energy Benchmarking Program,Michelle Levesque,2018-03-15
+589,Presentation/PrÈsentation,Fast-growing willows and organic cover: A promising approach to accelerate rehabilitation and generate value from sulfidic tailings?,"Bryan Tisch, Suzanne Beauchemin, Joyce Clemente, Sean Langley,Juha Metsaranta",2018-02-06
+590,Presentation/PrÈsentation,Adapting to a changing climate: implications for mine water management,Philippa Huntsman-Mapila,2018-01-25
+591,Presentation/PrÈsentation,The Fate and Effects of Metals in a Changing Climate - the Impacts of Extreme Events,"Carrie Rickwood, Philippa Huntsman-Mapila",2018-01-25
+592,Presentation/PrÈsentation,The Fate and Effects of Metals in a Changing Climate - the Impacts of Extreme Events,"Carrie Rickwood, Philippa Huntsman-Mapila",2018-01-25
+593,Presentation/PrÈsentation,Hydrogen Mine Introduction Initiative Consortium ‚Äì Project 3 Hydrogen leak behaviour in simulated underground conditions,Gilles Leblanc,2017-12-20
+594,Presentation/PrÈsentation,Pr√©sentation de conception¬†: R√©cup√©ration de chaleur sur l‚Äôeau de proc√©d√© de concentrateur minier¬†,Yan Germain,2017-12-20
+595,Presentation/PrÈsentation,Mining Value from Waste Reducing Liabilities & Recovering Values ,Terry Cheng,2017-12-14
+596,Presentation/PrÈsentation,Benchmarking Mine Data to Reduce Operating Costs,Michelle Levesque,2017-12-11
+597,Presentation/PrÈsentation,Potential impact of CC on the bio-geochemistry of mine tailings and current reclamation approaches,"Joyce Clemente, S. Beauchemin, Nicolas Reynier, Sean Langley",2017-12-08
+598,Presentation/PrÈsentation,Benchmarking Mine Energy Data to Reduce Emissions and Costs,Michelle Levesque,2017-11-24
+599,Presentation/PrÈsentation,Examining Maternal Transfer of Selenium in Daphnids Using Laser Ablation ICP-MS ,Carrie Rickwood ,2017-11-07
+600,Presentation/PrÈsentation,Mine Energy Benchmarking Program,Michelle Levesque,2017-11-02
+601,Presentation/PrÈsentation,CCRMP and PTP-MAL Highlights 2016-2017 ,"D. Desroches, M. Leaver, Lyne Lortie",2017-10-19
+602,Presentation/PrÈsentation,Critical Metals: Resources and Technology - A Canadian Perspective,Janice Zinck,2017-10-16
+603,Presentation/PrÈsentation,Les v√©hicules miniers √©lectriques‚Ä¶un tour d'horizon ,Andr√© Harvey,2017-10-10
+604,Presentation/PrÈsentation,Greenhouse Gas Emissions From Underground Mining Diesel Engines ,Brent Rubeli,2017-09-27
+605,Presentation/PrÈsentation,Summary of CMIN research at Vale 2016-2018: II Microbiological component,Sean Langley and Suzanne Beauchemin,2017-09-26
+606,Presentation/PrÈsentation,Summary of CMIN research at Vale 2016-2018: I Geochemical component,"Suzanne Beauchemin, Sean Langley, Joyce Clemente, B. Tisch",2017-09-25
+607,Presentation/PrÈsentation,Goldex Shaft #1 Synthetic Rope Mine Holsting Field Trial,Martin Cote,2017-09-20
+608,Presentation/PrÈsentation,Observations on CCRMP and PTP-MAL Data,"D. Desroches, M. Leaver",2017-08-29
+609,Presentation/PrÈsentation,Promoting early REE separation during ore leaching: an investigation through controlled synthetic crystal dissolution experiments.,"Yves Thibault, Joanne Gamage McEvoy",2017-08-04
+610,Presentation/PrÈsentation,Diesel Particulate Matter - Limits of Exposure and Exposure Data,Michel Grenier,2017-06-29
+611,Presentation/PrÈsentation,Recouvrements organiques √† consommation d'oxyg√®ne pour la rev√©g√©tation des r√©sidus miniers g√©n√©rateurs d'acide: avantages et d√©fis ,"Suzanne Beauchemin, Sean Langley, Yves Thibault, Joyce Clemente, Joanne Gamage McEvoy",2017-06-05
+612,Presentation/PrÈsentation,A recent advance in ultrasonic monitoring of rockbolt conditionsdeveloped by NRC,Ren√©e Royer,2017-05-29
+613,Presentation/PrÈsentation,"CanemtMINES - Plan de recherce quinquennal du groupe en controle de terrain, pr√©sent√© √† l'AMQ",Ren√©e Royer,2017-05-29
+614,Presentation/PrÈsentation,CanmetMINES¬†: Recherche et d√©veloppement ,Martin Cote,2017-05-17
+615,Presentation/PrÈsentation,Mesure de la consommation √©nerg√©tique d‚Äôun syst√®me de ventilation ,Michelle Levesque,2017-05-15
+616,Presentation/PrÈsentation,√âtalonnage du proc√©d√© de traitement ,Michelle Levesque,2017-05-11
+617,Presentation/PrÈsentation,Outil de calculs des pertes d'√©nergie d'un circuit de broyage,Gilles Leblanc,2017-05-11
+618,Presentation/PrÈsentation,CanmetMINING's recent developments on ground control techniques for improving mine safety,"Kristie Tarr, Ren√©e Royer, Denis Labrie, Ian Bedard",2017-04-12
+619,Presentation/PrÈsentation,"Impact of Water Regime and Nitrate on Sulfide Oxidation, Update: Extractions","Joyce Clemente, S. Beauchemin, T. MacKinnon, A. Khandelwal ",2017-03-17
+620,Presentation/PrÈsentation,Microbial Characterization of Cu-Ni Tailings Under Three Different Management Scenarios ,Sean Langley,2017-03-16
+621,Presentation/PrÈsentation,Determining rates of metal removal from the water column for aquatic hazard classification,Philippa Huntsman-Mapila,2017-02-14
+622,Presentation/PrÈsentation,Probing crystal chemistry properties that impact flotation selectivity: Collector-mineral interaction experiments in synthetic REE-orthophosphate systems,Joanne Gamage McEvoy,2017-02-02
+623,Presentation/PrÈsentation,IDENTIFICATION DU POTENTIEL DE R√âCUP√âRATION D'√âNERGIE DES CIRCUITS DE BROYAGE - ETUDE DE CAS AGNICO-EAGLE DIVISION GOLDEX ,Gilles Leblanc,2016-12-16
+624,Presentation/PrÈsentation,CanmetMINING Energy Recovery Tool - Quick Tour,Gilles Leblanc,2016-11-09
+625,Presentation/PrÈsentation,Evaluating the fate and effects of selenium in lab-cultured and field-collected biofilms,"Carrie Rickwood, Philippa Huntsman-Mapila",2016-11-04
+626,Presentation/PrÈsentation,Working with Biohazards at 555 Booth,Sean Langley and Suzanne Beauchemin,2016-11-04
+627,Presentation/PrÈsentation,Energy management strategies in auxiliary mine ventilation systems,Michelle Levesque,2016-09-19
+628,Presentation/PrÈsentation,CCRMP highlights 2015 to 2016,Maureen Leaver,2016-08-29
+629,Presentation/PrÈsentation,Observations on CCRMP and PTP-MAL Data,Maureen Leaver,2016-08-25
+630,Presentation/PrÈsentation,"NOAMI, Abandoned Mines and Ecotourism",Gilles Tremblay,2016-07-15
+631,Presentation/PrÈsentation,Ventilation system management ‚Äì the balance between energy conservation and air quality,Michelle Levesque,2016-07-12
+632,Presentation/PrÈsentation,Evolution of Cr and Fe species during carbothermic reduction of chromite ores,Dogan Paktunc,2016-06-09
+633,Presentation/PrÈsentation,CanmetMINING Energy managment initiatives for the mining sector,"Levesque, Michelle ",2016-05-25
+634,Presentation/PrÈsentation,Acute toxicity of RE lanthanides to two daphnid species,Melissa Desforges,2016-05-04
+635,Presentation/PrÈsentation,Acute toxicity of RE lanthanides to two daphnid species,Melissa Desforges,2016-05-04
+636,Presentation/PrÈsentation,"22nd Annual BC/MEND ML/ARD Workshop, Vancouver, B.C. ",Gilles Tremblay,2016-02-16
+637,Presentation/PrÈsentation,¬†Experience of Canadian Partnership Programs ‚Äì MEND and NOAMI ¬†,Gilles Tremblay,2016-02-16
+638,Presentation/PrÈsentation,D√©fis et meilleures pratiques pour le drainage rocheux ‚Äì √âtudes de cas canadiens ‚Äì programme NEDEM¬†,Gilles Tremblay,2016-02-16
+639,Presentation/PrÈsentation,MEND Program Update¬†,Gilles Tremblay,2016-02-16
+640,Presentation/PrÈsentation,Update on the National Orphaned and Abandoned Mines Initiative (NOAMI)¬†,Gilles Tremblay,2016-02-16
+641,Presentation/PrÈsentation,¬†The Canadian MEND Program ‚Äì 1989-2015¬†,Gilles Tremblay,2016-02-15
+642,Presentation/PrÈsentation,Environmental Challenges and Opportunities for the Mining Industry¬†,Gilles Tremblay,2016-02-15
+643,Presentation/PrÈsentation,GMIAC - Pilot Project on Energy Saving¬†,Gilles Leblanc,2016-02-04
+644,Presentation/PrÈsentation,GMIAC - Projet pilot sur les economies d'√©nergie des circuits de broyage¬†,Gilles Leblanc,2016-02-04
+645,Presentation/PrÈsentation,GMIAC Pilot Project on Energy Saving - Early Progress Report¬†,Gilles Leblanc,2016-02-04
+646,Presentation/PrÈsentation, Canada‚Äôs National Orphaned and Abandoned Mines Initiative (NOAMI) ,Gilles Tremblay,2016-02-02
+647,Presentation/PrÈsentation,Drop load (dynamic) testing of complete Ground Control Systems,Roger Lacroix,2015-12-01
+648,Presentation/PrÈsentation,"Innovation in Mine Water Management: Remote, Real-time Sensors for Water Quality Monitoring",Philippa Huntsman-Mapila,2015-11-17
+649,Presentation/PrÈsentation,Update on Diesel Particulate Matter Control Efforts in Canadian Mine,Michel Grenier,2015-10-14
+650,Presentation/PrÈsentation,L'introduction de l'hydrog√®ne dans les mines,Martin C√¥t√©,2015-10-08
+651,Presentation/PrÈsentation,"INNOVATIVE PROCESS FOR ACTINIDE AND RARE EARTH ELEMENTS RECOVERY FROM NUCLEAR WASTES, MINE WASTES AND ORE CONCENTRATE",Nicolas Reynier,2015-09-22
+652,Presentation/PrÈsentation,CCRMP Highlights 2014 to 2015,Maureen Leaver,2015-09-01
+653,Presentation/PrÈsentation,Observations  on CCRMP Data ,Maureen Leaver,2015-09-01
+654,Presentation/PrÈsentation,Acti-Gel¬Æ208 as an additive for paste and hydraulic backfill,Ian Bedard,2015-06-15
+655,Presentation/PrÈsentation,"High Performance Synthetic Ropes for Mine Hoisting, Presentation to PSTC May 25th 2015",Raymond Gaetan,2015-05-15
+656,Presentation/PrÈsentation,Reducing the Barriers to the Adoption of Energy Management Technology in U/G Mines - ETV Certification for Green Mining Technology,"Grenier, Michel",2015-04-22
+657,Presentation/PrÈsentation,Diesel Particulate in Mines - Current Knowledge and Solutions,"Grenier, Michel",2015-04-14
+658,Presentation/PrÈsentation,Hazard Classification of Mining Products for the Protection of the Marine Environment,"Huntsman-Mapila, Philippa",2015-04-01
+659,Presentation/PrÈsentation,Reclaiming Acidic Tailings with Organic Covers for Biomass Production:  A Field Case Study,"Tisch, Bryan",2015-03-17
+660,Presentation/PrÈsentation,Recent Advances in Green Mining Technologies in Canada,"Habib, Magdi",2014-10-31
+661,Presentation/PrÈsentation,Reducing Diesel Particulate Exposure - Lessons Learned in the Mining Sector,"Grenier, Michel",2014-10-24
+662,Presentation/PrÈsentation,CCRMP Highlights for 2013-2014,"Leaver, Maureen",2014-10-14
+663,Presentation/PrÈsentation,Observations on the Data from the Preparation of Certified Reference Materials and Proficiency Testing Program ‚Äì Mineral Analysis Laboratories (PTP-MAL) at CCRMP,"Desroches, Diane",2014-09-22
+664,Presentation/PrÈsentation,Green Mines Green Energy: Impact of 6 years of organic cover on metal mobility in acidic tailings,"Beauchemin, Suzanne",2014-06-05
+665,Presentation/PrÈsentation,Canada's National Orphaned and Abandoned Mines Initiative (NOAMI),"Tremblay, Gilles",2014-05-08
+666,Presentation/PrÈsentation,Marine Transformation/Dissolution Project Proposal,"Huntsman-Mapila, Philippa",2014-04-03
+667,Presentation/PrÈsentation,Ventilation on Demand,"Hardcastle, Stephen",2014-04-03
+668,Presentation/PrÈsentation,Reductive Dissolution of Goethite and Mobilization of Arsenic from Mine Tailings,D. Paktunc,2014-03-03
+669,Presentation/PrÈsentation,Hazard Classification for Market Access:  CanmetMINING‚Äôs Transformation/Dissolution Research,P. Huntsman-Mapila,2014-02-14
+670,Presentation/PrÈsentation,"Hazard Classification of Metals, Metal Compounds and Alloys for Market Access:  CanmetMINING‚Äôs Transformation/Dissolution Research",P. Huntsman-Mapila,2014-02-14
+671,Presentation/PrÈsentation,Science Extending the Reach of Policy:  Hazard Classification for Market Access,P. Huntsman-Mapila,2014-02-14
+672,Presentation/PrÈsentation,Mineralogical Controls on Arsenic Mobilization from Mine Wastes,D. Paktunc,2014-01-27
+673,Presentation/PrÈsentation,Propri√©t√©s du Shale d'Utica R√©gion de St-√âdouard - Forage F1,D. Labrie,2013-12-23
+674,Presentation/PrÈsentation,Evaluating their Potential Sources of Stable C and Inorganic Nutrients,"Clemente, Beauchemin, MacKinnon et al.",2013-11-19
+675,Presentation/PrÈsentation,Rehabilitation of acidic mine tailings for biofuel production: from biosolids to biochar amendments,"Beauchemin, Tisch, Clemente et al.",2013-11-19
+676,Presentation/PrÈsentation,Chronic Classification of Nickel Concentrates Based on Transformation/Dissolution Characteristics,J.M. Skeaff,2013-11-13
+677,Presentation/PrÈsentation,Diesel et ventilation ‚Äì D√©fis et bonnes pratiques,M. Grenier,2013-10-09
+678,Presentation/PrÈsentation,Effect of In-use DOCs on NO2 Emission in the Underground Operation,M. Gangal,2013-10-04
+679,Presentation/PrÈsentation,Engine Certification Testing and Ventilation Rates for Tier 4 Update,"B. Rubeli, M. Gangal",2013-10-04
+680,Presentation/PrÈsentation,CCRMP Highlights 2012 to 2013,"M.E. Leaver, J. Salley",2013-09-17
+681,Presentation/PrÈsentation,Observations on the Data from the Preparation of Certified Reference Materials and Proficiency Testing Program ‚Äì Mineral Analysis Laboratories (PTP-MAL) at CCRMP,"M.E. Leaver, J. Salley",2013-09-17
+682,Presentation/PrÈsentation,"D√©fis reli√©s √† l‚Äôutilisation du diesel dans les mines,  Present√© au Comit√© de sant√© et pr√©vention des accidents - AMQ",M. Grenier,2013-09-12
+683,Presentation/PrÈsentation,Diesel Mobile Equipment in Mines,"Grenier, Michel",2013-08-30
+684,Presentation/PrÈsentation,CanmetMINING's Marine Transformation/Dissolution Project,P. Huntsman-Mapila,2013-08-29
+685,Presentation/PrÈsentation,Validation of the UN T/DP for Freshwater Media and Implications for Validation of a Marine T/DP,J.M. Skeaff,2013-08-29
+686,Presentation/PrÈsentation,Determination of Select Elements at PPB Levels in Marine Media by Chelation,M. Pawlak,2013-08-06
+687,Presentation/PrÈsentation,"Impact of Humid Environment on Pb, Zn, Co and Se Bioaccessibilities in Indoor Dust",S. Beauchemin,2013-07-02
+688,Conference Proceedings/Actes de confÈrence ,Ground support loading monitored with Rock Bolt Sensor (RBS‚Ñ¢) and relationship to nearby production and seismicity,"Smith-Bougher L (main author), Anderson Z,  Levesque D, Kruger S, Quenneville Y, Jalbout A, Szirti J",2020-10-15
+689,Conference Proceedings/Actes de confÈrence ,Auxiliary fan energy consumption profile under ventilation control strategies,Enrique Acuna-Duhart; Michelle Levesque,2020-09-14
+690,Conference Proceedings/Actes de confÈrence ,Auxiliary fan selection considering purchasing and energy costs based on fan curves,"Enrique Acuna-Duhart, Michelle Levesque, Juan Pablo Hurtado",2020-09-14
+691,Conference Proceedings/Actes de confÈrence ,OPTIMIZATION OF RARE EARTH ELEMENTS LEACHING FROM A NECHALACHO CONCENTRATE SAMPLE,"Maziar E. Sauber, Antonio Di Feo, and Tesfaye Negeri",2020-06-24
+692,Conference Proceedings/Actes de confÈrence ,Interpretation of Peak and Residual Strength of Induced Tension Fractures in Sandstone by Single-Stage and Multi-Stage Direct Shear Tests,Steven Gaines,2020-04-17
+693,Conference Proceedings/Actes de confÈrence ,QUANTIFYING THE EXTENT OF METALLIZATION FOLLOWING THE DIRECT REDUCTION OF CHROMITE (DRC),"Nail R. Zagrtdenov, Dogan Paktunc, Eleanor Berryman",2020-03-09
+694,Conference Proceedings/Actes de confÈrence ,LOW GRADE RARE EARTH ORE PROCESSING ALTERNATIVES,Tesfaye Negeri ,2020-03-04
+695,Conference Proceedings/Actes de confÈrence ,MINERAL PROCESSING FLOWSHEET APPROACHES FOR THE ASHRAM RARE EARTH AND FLUORSPAR DEPOSIT,"Tesfaye Negeri, Maziar Sauber and Smith ",2020-03-04
+696,Conference Proceedings/Actes de confÈrence ,Ferrochrome smelter dusts from a pilot-scale DC Electric Arc Furnace,"Eleanor Berryman, Dogan Paktunc, Graeme Goodall",2020-02-26
+697,Conference Proceedings/Actes de confÈrence ,Recovery of battery metals (Ni and Co) from pyrrhotite tailings,"Rory Cameron, Rolando Lastra, Yves Thibault, Jean-Michel Bondy, John Chaulk, and Doug Go",2020-02-04
+698,Conference Proceedings/Actes de confÈrence ,Acid soaking water leaching of REE bearing ore samples,"Chen Xia,Wesley Griffith, Ceferino Soriano,Eden Barry",2020-01-06
+699,Conference Proceedings/Actes de confÈrence ,OPTIMIZATION OF RARE EAERTH ELEMENTS LEACHING FROM A NECHALACHO CONCENTRATE SAMPLE,Maziar E. Sauber,2020-01-02
+700,Conference Proceedings/Actes de confÈrence ,The effects of water recycling on nickel-copper ore at a North American concentrator,"TonyDi Feo, Konstantin Volchek, Lucie Morin and Andre Demers",2019-12-20
+701,Conference Proceedings/Actes de confÈrence ,Electrodialysis Separation of Light Rare Earth Elements from Their Binary Solutions,"Sanaz Mosadeghsedghi, Maziar Sauber, Soha Issa, and Saviz Mortazavi",2019-12-17
+702,Conference Proceedings/Actes de confÈrence ,"Process scale-up for uranium, mercury and cesium recovery from surrogate radioactive cemented waste.","Nicolas Reynier, Maxime Courchesne, Cheryl Laviolette, Andr√© Demers, Rolando Lastra, Mark Chapman",2019-11-20
+703,Conference Proceedings/Actes de confÈrence ,Supercritical Fluid Extraction of Rare Earth Elements from a Canadian Ore,"Jiakai Zhang, Kimberly Watada, Maziar E. Sauber, and Gisele Azimi",2019-09-23
+704,Conference Proceedings/Actes de confÈrence ,Observations on CCRMP and PTP-MAL Data,Maureen Leaver and Diane Desroches,2019-08-21
+705,Conference Proceedings/Actes de confÈrence ,Optimizing Zr and REE Recovery from Zircon through a Better Understanding of the Mechanisms Governing its Decomposition in Alkali Media,"Yves Thibault, Joanne Gamage McEvoy, Dominique Duguay",2019-08-13
+706,Conference Proceedings/Actes de confÈrence ,Recycling of Thickener Tank Overflow Stream at a North American Concentrator,"Tony Di Feo, Saviz Mortazavi, Lucie Morin and Andre  Demers ",2019-08-13
+707,Conference Proceedings/Actes de confÈrence ,The Effects of Metal-Bearing Mine Dust on Surface Water Chemistry,"Philippa Huntsman, Carrie Rickwood",2019-07-23
+708,Conference Proceedings/Actes de confÈrence ,Development and testing of the CMIN-BCM for monitoring borehole closure in underground environments,"Steven Gaines, Ken Judge, Denis Labrie",2019-07-11
+709,Conference Proceedings/Actes de confÈrence ,A new paradigm in ground support monitoring through ultrasonic monitoring of clusters of rock bolts,"Roger Lacroix, Ren√©e Roy√©e",2019-07-04
+710,Conference Proceedings/Actes de confÈrence ,Residual Properties Estimated from Post-Peak Triaxial Unloading: Case Study of a Hard Rock Mine Site,"Steven Gaines, Gabe Walton, Denis Labrie",2019-04-29
+711,Conference Proceedings/Actes de confÈrence ,"Challenges and Best Practices in Metal Leaching and Acid Rock Drainage, Proceedings of 2018 BCMEND ML/ARD Workshop",Bill Price,2019-02-22
+712,Conference Proceedings/Actes de confÈrence ,"Potential Biologicea Effects of Subaqueous Disposal of Mine Tailings, in Price (ed) 25th British Columbia MEND Metal Leaching/Acid Rock Drainage Workshop, Vancouver, 2018",Bill Price,2019-02-22
+713,Conference Proceedings/Actes de confÈrence ,Le profil energetique du secteur minier canadien,Michelle Levesque,2019-01-16
+714,Conference Proceedings/Actes de confÈrence ,The Feasibility of Separation of Lanthanum and Europium by use of electrodialysis,"Saviz Mortazavi, Sanaz Mosadeghsedghi, Lucie Morin, Aartee Khandelwal",2018-12-12
+715,Conference Proceedings/Actes de confÈrence ,Hydrochloric Acid Regeneration from Hydrometallurgical Chloride Salt Wastes - A Sustainable Technology,Maziar E. Sauber,2018-11-26
+716,Conference Proceedings/Actes de confÈrence ,The Feasibility of Separation of Lanthanum and Europium by use of electrodialysis,"Saviz Mortazavi, Sanaz Mosadeghsedghi, Maziar Sauber",2018-11-26
+717,Conference Proceedings/Actes de confÈrence ,Hydrochloric Acid Regeneration from Hydrometallurgical Chloride Salt Wastes ‚Äî A Sustainable Technology,Maziar E. Sauber,2018-11-23
+718,Conference Proceedings/Actes de confÈrence ,Mining Value from Waste Initiative:  Towards a low carbon and circular economy,Janice Zinck,2018-10-15
+719,Conference Proceedings/Actes de confÈrence ,"Next Steps for Tracking Dust Under a Changing Climate: Coupling Biogeochemistry, Mineralogy, and Remote Sensing to Assess Cumulative Mine Site Impacts","Philippa Huntsman-Mapila, Carrie Rickwood",2018-09-11
+720,Conference Proceedings/Actes de confÈrence ,Economic benefits for using electric and low emission vehicles in a ventilation-on-demand system,Gary Li,2018-09-07
+721,Conference Proceedings/Actes de confÈrence ,Simulation of airflow changes in a VOD system and evaluation of energy benefits through VREX modeling  ,Gary Li,2018-06-27
+722,Conference Proceedings/Actes de confÈrence ,Application of Vacuum Membrane Distillation in Treatment of Mining Effluent Streams - Pilot Study,Saviz Mortazavi,2018-05-30
+723,Conference Proceedings/Actes de confÈrence ,Reprocessing of Historic Tailings from the Aunor Mine in Timmins,"Terry Cheng, Marcus Tomlinson, Anthony Di Feo, Rolando Lastra",2018-05-30
+724,Conference Proceedings/Actes de confÈrence ,Organic Covers on sulfidic tailings: Are metals mobilized from the oxidized layer,"Suzanne Beauchemin, Sean Langley, Joyce Clemente, Yves Thibault",2018-05-15
+725,Conference Proceedings/Actes de confÈrence ,"Microwave-Assisted Acid Digestion for the Determination of Al, Cr, Fe, Mg and Si in Chromite Samples by ICP-OES","Ruiping Wang, Duane Palmer",2018-05-04
+726,Conference Proceedings/Actes de confÈrence ,√âlectrification: les b√©n√©fices de l'adoption des v√©hicules miniers √©lectriques,Michelle Levesque,2018-04-26
+727,Conference Proceedings/Actes de confÈrence ,Methods for tracking the evolution of refractory REE mineral decomposition in strong acid media,"Joanne Gamage McEvoy, Yves Thibault",2018-04-11
+728,Conference Proceedings/Actes de confÈrence ,Developing a process to recover rare earth elements and scandium from coal fly ash,"Rory Cameron, Yves Thibault, Rolando Lastra",2018-04-05
+729,Conference Proceedings/Actes de confÈrence ,Recovery of rare earth elements from coal fly ash and recovery from PLS with IX,"Rory Cameron, Rolando Lastra, Yves Thibault, Nicolas Reynier",2018-04-05
+730,Conference Proceedings/Actes de confÈrence ,Extraction of Cobalt and Nickel from a Pyrrhotite Rich Tailings Sample Via Bioleaching,"Rory Cameron, Rolando Lastra ",2018-04-04
+731,Conference Proceedings/Actes de confÈrence ,Radionuclides removeal from Ore and REE-bearing minerals by leaching and ion exchange separation,"Nicolas Reynier, Maxime Courchesne, Laurence Whitty Leveille, JF Fiset, Cheryl Laviolette, ",2018-03-13
+732,Conference Proceedings/Actes de confÈrence ,The Reasibility of Separation or Rare Earth Elements by Use of Electrodialysis,"Sanaz Mosadeghsedghi, Saviz Mortazavi, Maziar Sauber",2018-03-12
+733,Conference Proceedings/Actes de confÈrence ,Separation of Rare-Earth Elements from Process Leachates by Use of Electrodialysis,Sanaz Mosadeghsedghi,2018-02-20
+734,Conference Proceedings/Actes de confÈrence ,Treatment of acid-generating mine tailings using different types of organic waste - I) paper mill biosolids ,"Sean Langley and Suzanne Beauchemin, Bryan Tisch",2018-02-15
+735,Conference Proceedings/Actes de confÈrence ,Treatment of acid-generating mine tailings using different types of organic waste - II) municipal biosolids ,"Sean Langley, Suzanne Beauchemin, Byran Tisch",2018-02-15
+736,Conference Proceedings/Actes de confÈrence ,Water management and EA - Best Available Technologies,Sanaz Mosadeghsedghi,2018-02-15
+737,Conference Proceedings/Actes de confÈrence ,Selective removal of U and Th from rare earth elements leaching solution using magnetic solid-phase extraction,"Laurence Whitty Leveill√©, Nicolas Reynier, Dominic Larivi√®re",2017-11-30
+738,Conference Proceedings/Actes de confÈrence ,Improving Energy Performance in the Mining Sector using the NRCan Benchmarking Program,Michelle Levesque,2017-11-17
+739,Conference Proceedings/Actes de confÈrence ,Update of Canadian Rare Earths Projects and Technological Trends,"M. Sauber, J. Zinck",2017-11-17
+740,Conference Proceedings/Actes de confÈrence ,NaOH‚Äìassisted direct reduction of Ring of Fire chromites and the associated implications for processing,Samira Sokhanvaran,2017-11-16
+741,Conference Proceedings/Actes de confÈrence ,Oxidative Removal of Cerium from Rare Earth Elements Mixed Chloride Solution ,Maziar Sauber,2017-11-14
+742,Conference Proceedings/Actes de confÈrence ,Radionuclides removal from ore and REE-bearing minerals by ion exchange separation,"N. Reynier, M. Courchesne, L. Whitty Leveille, JF. Fiset, C. Laviolette, J.Zinck",2017-11-09
+743,Conference Proceedings/Actes de confÈrence ,Managing Orphaned and Abandoned Mines - A Canadian Perspective,"Charlene Hogan, G. Tremblay",2017-10-04
+744,Conference Proceedings/Actes de confÈrence ,Clean Energy Transition for the Mining Industry,"Michelle Levesque, Marc B√©tournay",2017-09-26
+745,Conference Proceedings/Actes de confÈrence ,A study on Direct Oxalate Precipitation for REE Recovery from a Lowgrade REE Pregnant Solution,"C. Xia, W. Griffith",2017-09-08
+746,Conference Proceedings/Actes de confÈrence ,Measuring baseline energy productivity of mining and milling,Michelle Levesque,2017-06-29
+747,Conference Proceedings/Actes de confÈrence ,Carbothermic Direct Reduction of Chromite Using a Segregation Catalyst for the Production of Ferrochrome,"Dawei Yu, Dogan Paktunc",2017-06-20
+748,Conference Proceedings/Actes de confÈrence ,Geomicrobiology in acidic mine tailings under different reclamation scenarios ,"Suzanne Beauchemin, Sean Langley, Joyce Clemente",2017-06-14
+749,Conference Proceedings/Actes de confÈrence ,Solutions √©mergentes et alternatives au diesel ,Gilles Leblanc,2017-05-18
+750,Conference Proceedings/Actes de confÈrence ,Alternative au diesel dans les mines souterraines,Andr√© Harvey,2017-05-16
+751,Conference Proceedings/Actes de confÈrence ,Challenges in Concentrating Rate Earth Minerals,"Tesfaye Negeri, Micheline Boisclair",2017-04-11
+752,Conference Proceedings/Actes de confÈrence ,The Effect of Fluxing Agent on Direct Reduction of Chromite,"Samir Sokhanvaran, Dogan Paktunc",2017-03-22
+753,Conference Proceedings/Actes de confÈrence ,"Water in Gold, Nickel and Copper Minerals Flotation","Maziar Sauber, Saviz Mortazavi, Sean Langley",2017-03-17
+754,Conference Proceedings/Actes de confÈrence ,Chemical Softening of the Oil Sands Produced Water  ,Saviz Mortazavi,2017-02-15
+755,Conference Proceedings/Actes de confÈrence ,Evaluation of Performance of Industrial Spiral-Wound Reverse Osmosis Membranes for Treatment of Oil Sands Produced Water ,Saviz Mortazavi,2017-02-15
+756,Conference Proceedings/Actes de confÈrence ,Stirred-tank bioleaching of pyrrhotite tailings and nickel recovery,"Rory Cameron, Rolando Lastra, Yves Thibault,Lucie Morin",2017-02-07
+757,Conference Proceedings/Actes de confÈrence ,"Frictional properties of rocks as a function of rock type, specimen size and confining pressure ",Denis Labrie,2017-02-03
+758,Conference Proceedings/Actes de confÈrence ,"BIOSOLIDS, BIOMASS, BIOENERGY AND RAPID RECLAMATION OF TAILINGS ","Bryan Tisch, Suzanne Beauchemin, Joyce Clemente, Sean Langley",2017-01-11
+759,Conference Proceedings/Actes de confÈrence ,Ultrasonic monitoring of rockbolt conditions ,Ren√©e Royer,2016-11-07
+760,Conference Proceedings/Actes de confÈrence ,Pilot-Scale Assessment of Vacuum Membrane Distillation for Treatment of Mine Effluent and Acidic Drainage,Saviz Mortazavi,2016-10-19
+761,Conference Proceedings/Actes de confÈrence ,Breaking down energy consumption in industrial grinding mills ,Gilles Leblanc,2016-10-14
+762,Conference Proceedings/Actes de confÈrence ,Canadian Rare Earth Elements R&D Program: Model of Collaboration,Janice Zinck,2016-09-15
+763,Conference Proceedings/Actes de confÈrence ,The CMIC / CanmetMINES Comminution Energy Recovery Potential Initiative ‚Äì the Agnico Eagle,Gilles Leblanc,2015-09-03
+764,Conference Proceedings/Actes de confÈrence ,Presentation,"Cote, Martin",2015-04-28
+765,Conference Proceedings/Actes de confÈrence ,Metal Sequestration is Influenced by Biochar Properties and Changes in pH,"Beauchemin, Suzanne",2015-03-11
+766,Conference Proceedings/Actes de confÈrence ,Acti-Gel¬Æ208 as an Additive for Paste and Hydraulic Backfill,"Tarr, Kristie",2015-03-06
+767,Conference Proceedings/Actes de confÈrence ,The Canadian MEND program the first Twenty-five years,"Tremblay, Gilles",2015-02-26
+768,Conference Proceedings/Actes de confÈrence ,R√©sistance m√©canique et pressions de fracturation de quelques mat√©riaux rocheux s√©demintaires typiques,"Labrie, Denis",2015-01-06
+769,Conference Proceedings/Actes de confÈrence ,R√©sistance m√©canique et pressions de fracturation de quelques mat√©riaux rocheux s√©dimentaires typiques,"Labrie, Denis",2015-01-05
+770,Conference Proceedings/Actes de confÈrence ,Column Leaching of Rare Earth Elements from a Black Shale,"Cameron, Rory",2014-10-14
+771,Conference Proceedings/Actes de confÈrence ,Sensitivity Study on Ventilation Parameter Changes in Mine Ventilation Systems,"Li, Gary",2014-08-27
+772,Conference Proceedings/Actes de confÈrence ,"Method Development and Validation for the Determination of Fe, Nb and Rare Earth Elements in Various REE Bearing Minerals","Wang, Ruiping",2014-07-31
+773,Conference Proceedings/Actes de confÈrence ,Metal Sequestration is Influenced by Biochar Properties and Changes in pH,"Clemente, Joyce",2014-07-29
+774,Conference Proceedings/Actes de confÈrence ,Heat Acclimation ‚Äì Measurement of Induction Benefits and Subsequent Non-exposure Decay,"Hardcastle, Stephen",2014-07-28
+775,Conference Proceedings/Actes de confÈrence ,"Optimization and validation of a chemical process for uranium, mercury and cesium leaching from cemented radioactive wastes","Reynier, Nicolas",2014-05-05
+776,Conference Proceedings/Actes de confÈrence ,Advances in Process Development for Beneficiation and Extraction of Rare Earths for GeoMega's Montviel Carbonaceous Ore,"Negeri, Tesfaye",2014-04-23
+777,Conference Proceedings/Actes de confÈrence ,Pathway Mapping of Airflow Delivery to the Production Areas in Underground Mine Ventilation Systems,"Li, Gary",2014-04-23
+778,Conference Proceedings/Actes de confÈrence ,Feasibility of Acti-gel¬Æ as a Cost-effective Additive for Underground Mine Hydraulic Backfill Applications,"K. Tarr, I. Bedard",2014-02-24
+779,Conference Proceedings/Actes de confÈrence ,The Effect of Diesel Oxidation Catalysts on NO2 Emission from Mining Vehicles,M. Gangal,2014-02-19
+780,Conference Proceedings/Actes de confÈrence ,"Bioaccessibility of Lead, Zinc, Cobalt and Selenium in House Dust",S. Beauchemin,2013-11-18
+781,Conference Proceedings/Actes de confÈrence ,Feasibility of Tailings Reclamation for Underground Paste and Hydraulic Backfill Applications,K. Tarr and A. Pratt,2013-07-24
+782,Conference Proceedings/Actes de confÈrence ,A Review on Iron Separation in Rare Earths Hydrometallurgy using Precipitation and Solvent Extractions Methods,C. Xia,2013-07-18
+783,Conference Proceedings/Actes de confÈrence ,Effects of DOCs on NO Production from mining diesel equipment,M. Gangal,2013-04-17
+784,Internal technical report/Rapport technique interne,Enhancement of VREX Program for Evaluating the VOD system and Operational Strategies to Reduce Ventilation Costs ,Gary Li,2021-02-10
+785,Internal technical report/Rapport technique interne,"REE metal, alloy, magnet-making webinar summary report",Eliza Ngai,2021-01-28
+786,Internal technical report/Rapport technique interne,Ground Support Corrosion:  Determining Potential Need for Canadian Industry,Clinton DeRushie,2020-12-08
+787,Internal technical report/Rapport technique interne,The Application of Machine Learning to the Secondary Grinding Circuit at Canadian Royalties-Progress Report 2,"Tony Di Feo, Nasseh Khodaie and Pengbo Chu",2020-07-17
+788,Internal technical report/Rapport technique interne,REE Y5 Annual Report - Chen Xia - Baking and Leaching,"Chen Xia, Wesley Griffith, Eden Barry",2020-06-23
+789,Internal technical report/Rapport technique interne,FY 2019 - 2020 Sales Review and the Proposed Next Production Plan for CCRMP,"Lyne Lortie, Diane Desroches and Maureen E. Leaver ",2020-05-29
+790,Internal technical report/Rapport technique interne,"REE Technical Workshop Report ‚Äì May 26, 2020",Eliza Ngai,2020-05-26
+791,Internal technical report/Rapport technique interne,The Application of Machine Learning to the Secondary Grinding Circuit at Canadian Royalties-Progress Report 1,"Tony Di Feo, Nasseh Khodaie and Pengbo Chu",2020-05-25
+792,Internal technical report/Rapport technique interne,REE Y5 Annual Report - Tesfaye Negeri - Physical Processing,Tesfaye Negeri,2020-05-20
+793,Internal technical report/Rapport technique interne,Mining Stakeholder Survey Summary - Regulatory Bottlenecks and Opportunities for Improvement,Rawya Tsuji,2020-04-21
+794,Internal technical report/Rapport technique interne,"REE Y5 Annual Report - Nicholas Reynier - Combining Grinding, Leaching and Radionuclides Separation","Nicholas Reynier, Maxime Courchesne, Cheryl Laviolette, Magella Bilodeau, Andr√© Demers",2020-03-31
+795,Internal technical report/Rapport technique interne,REE Y5 Annual Report - REE Characterization,"Yves Thibault, Joanne Gamage McEvoy",2020-03-31
+796,Internal technical report/Rapport technique interne,REE Y5 Annual Report - Rory Cameron - Environment,"Rory Cameron, Mehdi Mostajeran, Nicolas Reynier, Jean-Michel Bondy",2020-03-31
+797,Internal technical report/Rapport technique interne,Year 5 REE Separation Year End Report,Maziar Sauber,2020-03-31
+798,Internal technical report/Rapport technique interne,CPB-3: Preparation of a certified reference material for a lead concentrate,Maureen E. Leaver and Lyne Lortie,2020-02-18
+799,Internal technical report/Rapport technique interne,Dec 2019 REE Technical Workshop Report,Eliza Ngai,2020-01-06
+800,Internal technical report/Rapport technique interne,Oxygen diffusion in saturated covers : Review and Methodology,"Reynier Nicolas, Gagn√©-Turcotte Roselyne, Nielsen Guillaume",2019-12-05
+801,Internal technical report/Rapport technique interne,Investigation of the frothing effects of Aero 6493,Pengbo Chu,2019-10-25
+802,Internal technical report/Rapport technique interne,Potential Climate Change Implications on Water Management and Structural Integrity of Water Retaining Infrastructures in the Canadian Mining Industry South of 60¬∞,"Yanick Tremblay, Philippa Huntsman, Carrie Rickwood",2019-10-17
+803,Internal technical report/Rapport technique interne,R√©sultat de l‚Äôutilisation d‚Äôun c√¢ble synth√©tique pour le hissage minier √† la mine Goldex - Addendum,Martin C√ßot√©,2019-08-30
+804,Internal technical report/Rapport technique interne,"Experimental Assessment of the Mechanical Properties of Class G Cement as a Part of the Wellbore Integrity Process: Part I, Unaltered samples and conditioned by N2",Nadia Shafie Zadeh,2019-08-09
+805,Internal technical report/Rapport technique interne,"Experimental Assessment of the Mechanical Properties of Class G Cement as a Part of the Wellbore Integrity Process: Part II, Conditioned samples by brine and impure CO2",Nadia Shafie Zadeh,2019-08-09
+806,Internal technical report/Rapport technique interne,The Feasibility of Separation of Light & Heavy REE using Electrodialysis,Maziar Sauber - Sanaz Mosadegh sadeghi- Soha Issa - Saviz Mortazavi,2019-07-05
+807,Internal technical report/Rapport technique interne,Dec 2018 Workshop Report - Progress in Developing a REE Industry in Canada,"Eliza Ngai, Bryan Tisch and Janice Zinck",2019-06-27
+808,Internal technical report/Rapport technique interne,May 2019 Workshop Report - Annual Technical Workshop Year 4,"Eliza Ngai, Bryan Tisch and Janice Zinck",2019-06-27
+809,Internal technical report/Rapport technique interne,Low Grade Rare Earth Ore Processing Alternatives,Tesfaye Negeri ,2019-02-28
+810,Internal technical report/Rapport technique interne,Physical Processing Year 3 Project Update,Tesfaye Negeri ,2019-02-27
+811,Internal technical report/Rapport technique interne,Y2 report early separation of Ce and La from REE mixed chloride solutions ,Maziar E. Sauber,2019-02-25
+812,Internal technical report/Rapport technique interne,Scale-up for task C and key elements recovery ,Nicolas Reynier,2019-02-05
+813,Internal technical report/Rapport technique interne,FY 2017 - 2018 Sales Review and the Proposed Next Production Plan for CCRMP,Maureen Leaver,2019-01-31
+814,Internal technical report/Rapport technique interne,Application of Modified Ceramic Membranes for Improved Treatment and Recycling of SAGD Produced Water ,Saviz Mortazavi,2019-01-22
+815,Internal technical report/Rapport technique interne,3D ROCK SIZE SENSOR ‚Äì Phase II ,Magella Bilodeau,2019-01-21
+816,Internal technical report/Rapport technique interne,Increasing Energy Efficiency: Coarse Particle Flotation at Bagdad Operations (Progress Report 2),"T. Di Feo, R. Lastra",2018-12-12
+817,Internal technical report/Rapport technique interne,Increasing Energy Efficiency: Coarse Particle Flotation at Bagdad Operations (Progress Report 1),"T. Di Feo, R. Lastra",2018-10-29
+818,Internal technical report/Rapport technique interne,Proficiency Testing Program for Mineral Analysis Laboratories - April 2017 Cycle (Final Report),Diane Desroches,2018-09-20
+819,Internal technical report/Rapport technique interne,"Stress/Strain Redistribution around a Borehole Subjected to the One-Directional Load Analytical and Numerical approach,        Part II: Plastic",Nadia Shafie Zadeh,2018-08-28
+820,Internal technical report/Rapport technique interne,"Stress/Strain Redistribution around a Borehole Subjected to the One-Directional Load Analytical and Numerical approach,       Part I: ELASTIC",Nadia Shafie Zadeh,2018-08-28
+821,Internal technical report/Rapport technique interne,Matamec Coarse Particle Flotation,"T. Di Feo, T. Negeri",2018-07-20
+822,Internal technical report/Rapport technique interne,Result of the use of a synthetic rope for hoisting at the Goldex mine ,Martin Cote,2018-07-19
+823,Internal technical report/Rapport technique interne,REE-3 : Preparation of a certified reference material for an rare earth elements ore,"Maureen Leaver, Lyne Lortie",2018-06-20
+824,Internal technical report/Rapport technique interne,REE recovery from secondary sources - Year 3 progress report,Rory Cameron,2018-05-17
+825,Internal technical report/Rapport technique interne,Y3 report early separation of cerium from chloride solutions,Maziar E. Sauber,2018-05-14
+826,Internal technical report/Rapport technique interne,Effects of municipal biosolids application on biogeochemistry of Cu-Ni sulphide tailings under laboratory conditions,"Sean Langley, Suzanne Beauchemin ",2018-05-11
+827,Internal technical report/Rapport technique interne,"Cu and Ni solubility inVale oxidixed tailings as affected by oxalate additions at pH 2.5, 4 and 6","Suzanne Beauchemin, Sean Langley, Ted MacKinnon, Derek Smith",2018-05-01
+828,Internal technical report/Rapport technique interne,An Overview of New Development in Unconventional Gas and Tight Oil: Induced Seismicity Aspect and Its Environmental Impacts ,Nadia Shafie Zadeh,2018-04-17
+829,Internal technical report/Rapport technique interne,Progress Report 2017/2018: Fate and effects of metals in a changing cliamte - Year 2 progress report,"Carrie Rickwood, Philippa Huntsman-Mapila, Sean Langley",2018-04-04
+830,Internal technical report/Rapport technique interne,Development of a Laboratory Procedure for Testing Ground Support Surface Mesh ,Ian Bedard,2018-03-20
+831,Internal technical report/Rapport technique interne,Introduction to Digital Image Correlation (DIC) Technology,Ken Judge,2018-03-20
+832,Internal technical report/Rapport technique interne,C√¢bles en fibres symth√©tiques pour le hissage minier ,Martin Cote,2018-03-09
+833,Internal technical report/Rapport technique interne,R√©sultats de l‚Äôutilisation d‚Äôun c√¢ble synth√©tique pour le hissage miner √† la mine Goldex ,Martin Cote,2018-03-09
+834,Internal technical report/Rapport technique interne,Comparative study of gold liberation by comminution using electric pulse disaggregation vs conventional comminution,"R Lastra, D. Smith, P. Nekoovaght",2018-03-05
+835,Internal technical report/Rapport technique interne,Context for the study of process water Glencore - Strathcona Operations,"Toni Di Feo, Sanaz Mosadeghsedghi, Saviz Mortazavi",2018-02-14
+836,Internal technical report/Rapport technique interne,Resin-impregnation method for preservation of intact tailings field cores to obtain depth-resolved characterization of textural and mineralogical properties,"Yves Thibault, Joanne Gamage McEvoy",2017-12-07
+837,Internal technical report/Rapport technique interne,Anaerobic incubation of pyrrhotite-rich Cu/Ni tailings with different nutrient amendments and water content (interim report). ,Joyce Clemente,2017-10-29
+838,Internal technical report/Rapport technique interne,PLAN DE RECHERCHE RELI√â √Ä L‚ÄôINTRODUCTION DE LA FRAGMENTATION THERMIQUE DANS LES MINES,Gilles Leblanc,2017-10-19
+839,Internal technical report/Rapport technique interne,ASTM-D7401-18-Standard Test Methods for Laboratory Determination of Rock Anchor Capacities by Pull and Drop Tests ,Ren√©e Royer,2017-10-02
+840,Internal technical report/Rapport technique interne,Assessing the impact of electrification of the metal mining sector on electricity demand,Michelle Levesque,2017-09-29
+841,Internal technical report/Rapport technique interne,Accelerated dissolution and solid-phase separation,"Nicolas Reynier, Cheryl Laviolette, Maxime Courchesne, Laurence Whitty L√©veill√©",2017-06-23
+842,Internal technical report/Rapport technique interne,Letter and results on the testing of the second generation on the ultrasonic sensors of NRC,"Ren√©e Royer, Ted Anderson",2017-06-19
+843,Internal technical report/Rapport technique interne,"Sales Review for FY 2015-2016 and 2016 - 2017 for the Canadian Certified Reference Materials Project and Proficiency Testing Program ‚Äì Mineral Analysis Laboratories, and Proposal for a Production Plan for Reference Materials  ","Diane Desroches, Lyne Lortie, Maureen Leaver",2017-06-19
+844,Internal technical report/Rapport technique interne,Integrating Climate Change Adaptation into Environmental Assessment,Philippa Huntsman-Mapila (Co-Author),2017-06-07
+845,Internal technical report/Rapport technique interne,Geochemical Evolution of Acidic Tailings After Organic Inputs: Lessons Learned at Vale,"Suzanne Beauchemin, Sean Langley, Ted MacKinnon, Yves Thibault, Joanne Gamage McEvoy",2017-05-16
+846,Internal technical report/Rapport technique interne,Applicability of Humic Acid in Stabilizing Waste Rock,"Y.T. John Kwong, Suzanne Beauchemin, Carrie Rickwood, Ted MacKinnon",2017-04-18
+847,Internal technical report/Rapport technique interne,Greenhouse Gas Emissions from Underground Mining Diesel Engines,"David Young, Brent Rubeli, Mahe Gangal",2017-04-04
+848,Internal technical report/Rapport technique interne,Sequential Extraction of Radium from Uranium Mine Tailings,"John Kwong, Jean Francois Fiset",2017-04-04
+849,Internal technical report/Rapport technique interne,IOC-1 Preparation of a certified reference material for an iron ore,Leaver Maureen and Lortie Lyne,2017-04-03
+850,Internal technical report/Rapport technique interne,Y2 report Hydrochloric Acid Regeneration from Barren Leach Solutions,Maziar E. Sauber,2017-04-03
+851,Internal technical report/Rapport technique interne,Atmospheric deposition of particulates and associated metals from mining activity¬†: a review ,Carrie Rickwood ,2017-03-31
+852,Internal technical report/Rapport technique interne,Geomicrobiology of acidic tailings treated with different reclamation strategies,"Sean Langley and Suzanne Beauchemin, Lucie Morin",2017-03-31
+853,Internal technical report/Rapport technique interne,√âtat de la technologie de la r√©cup√©ration de l‚Äô√©nergie √† basse temp√©rature,Gilles Leblanc,2017-03-30
+854,Internal technical report/Rapport technique interne,Developing an Energy Benchmarking Program for the Mining Sector,Michelle Levesque,2017-03-30
+855,Internal technical report/Rapport technique interne,IOC-1¬†: Preparation of a certified reference material  for an iron ore ,Maureen Leaver,2017-03-22
+856,Internal technical report/Rapport technique interne,"CanmetMINING - Canada Mining Innovation Council Water Management Workshop January 16, 2017",Saviz Mortazavi,2017-03-17
+857,Internal technical report/Rapport technique interne,Collector-mineral interactions in REE-orthophosphate systems: Proving crystal chemistry properties that impact selectivity,"Joanne Gamage McEvoy, Yves Thibault",2017-03-01
+858,Internal technical report/Rapport technique interne,Controlled dissolution experiments on natural and synthetic REE-ortophosphate crystallinge systems: an approach to identify interfacial processes promoting early fractionation of the REE,Yves Thibault Joanne Gamage McEvoy,2017-03-01
+859,Internal technical report/Rapport technique interne,Examining the Acute Toxicity of select Rare Earth Elements towards Northern Cultures of Daphnia pulex and standardized cultures of Daphnia magna ,Melissa Desforges,2017-02-02
+860,Internal technical report/Rapport technique interne,Iron Recovery From Tailings Using Biomass-based Technology: Technical Update ,Joanne Gamage McEvoy,2016-11-28
+861,Internal technical report/Rapport technique interne,Application of Ceramic Ultrafiltration membranes as a pre-treatment for Nanofiltration and Reverse Osmosis,Saviz Mortazavi,2016-10-19
+862,Internal technical report/Rapport technique interne,Application of Membrane Separation Technology to Mitigation of Mine Effluent and Acidic Drainage,Saviz Mortazavi,2016-10-19
+863,Internal technical report/Rapport technique interne,Assessment of different membrane processes for the treatment of mine effluent and acidic drainage,Saviz Mortazavi,2016-10-19
+864,Internal technical report/Rapport technique interne,Assessment of Vacuum Membrane Distillation for Treatment of Mine Effluents and Acidic Drainage,Saviz Mortazavi,2016-10-19
+865,Internal technical report/Rapport technique interne,Laboratory evaluation of diesel oxidation catalysts for NO2 formation,Brent Rubeli,2016-09-23
+866,Internal technical report/Rapport technique interne,Mine Waste Management under a Changing Climate in the North,Y.T. John Kwong,2016-08-05
+867,Internal technical report/Rapport technique interne,Accelerated leaching and recovery process for actinides-free separation of rare earth element,Nicolas Reynier,2016-08-01
+868,Internal technical report/Rapport technique interne,Characterizing the mechanical behavior of the tournemire argillite,Denis Labrie,2016-07-21
+869,Internal technical report/Rapport technique interne,Role of Ferric Ion in Stabilizing Arsenic Trioxide,Y.T. John Kwong,2016-07-19
+870,Internal technical report/Rapport technique interne,An Overview of Potential R&D Areas in Leaching and Separation for Canadian REE Projects,Maziar E. Sauber,2016-07-14
+871,Internal technical report/Rapport technique interne,Technical Report: Differentiation of strontium in the surrogate cemented radioactive wastes ,"Fiset, Jean-Francois",2016-07-05
+872,Internal technical report/Rapport technique interne,Metal Attenuation and Microbes in a Northern Mining Area (Part II),Y.T. John Kwong,2016-06-22
+873,Internal technical report/Rapport technique interne,ENERGY EFFICIENT ROCK FRAGMENTATION ‚Äì PROJECT COMPLETION REPORT,Magella Bilodeau,2016-06-13
+874,Internal technical report/Rapport technique interne,3D LASER SCANNER FOR RUN-OF-MINE ORE SIZE MEASUREMENT AT THE PRIMARY CRUSHER,Magella Bilodeau,2016-06-12
+875,Internal technical report/Rapport technique interne,ENERGY EFFICIENT ROCK FRAGMENTATION ‚Äì PROJECT COMPLETION REPORT,Magella Bilodeau,2016-06-12
+876,Internal technical report/Rapport technique interne,ROCK HARDNESS SOFT SENSOR BASED ON CRUSHER DATA ‚Äì PROOF OF CONCEPT STUDY,Magella Bilodeau,2016-06-12
+877,Internal technical report/Rapport technique interne,Exploratory Examination of the Removal of Metals from the Water Column under Transformation/Dissolution Conditions for Chronic Hazard Classification,"Huntsman-Mapila, Philippa",2016-06-07
+878,Internal technical report/Rapport technique interne,Leaching of rare earth elements from coal ash,Rory Cameron,2016-05-20
+879,Internal technical report/Rapport technique interne,Gap Analysis for Mining Extraction Issues in Canada's Nort - Project Summary Report,Karen Beaudoin,2016-05-18
+880,Internal technical report/Rapport technique interne,Solid-Phase separation of actinides and lanthanides,Whittey-L√©v√©ill√©,2016-05-17
+881,Internal technical report/Rapport technique interne,REE characterization : linking mineralogical variation to flotation and leaching performance,Yves Thibeault,2016-05-12
+882,Internal technical report/Rapport technique interne,Characterization of filtration and fouling processes in ceramic membranes used for the recovery and recycle of oil sands produced water,Yves Thibault,2016-04-23
+883,Internal technical report/Rapport technique interne,Identification du potentiel de r√©cup√©ration de l‚Äô√©nergie dans les circuits de broyage,Gilles Leblanc,2016-04-23
+884,Internal technical report/Rapport technique interne,Improving the performance of anaerobic bioreactors at sub-optimal temperatures,Sean Langley,2016-04-15
+885,Internal technical report/Rapport technique interne,Testing and evaluation of modular thermal transfer unit for underground mine air conditioning,Gary Li,2016-04-13
+886,Internal technical report/Rapport technique interne,Investigation of the extent of oxidation of iron oxides in magnetic biochars by X-ray photoelectron spectroscopy,Joanne Gamage McEvoy,2016-04-09
+887,Internal technical report/Rapport technique interne,Rare Earth Element Technical Workshop Summary Report,NRCan,2016-04-07
+888,Internal technical report/Rapport technique interne,CCU-1e: Preparation of a certified reference material for a copper concentrate,Maureen Leaver,2016-01-29
+889,Internal technical report/Rapport technique interne,ANALYSIS OF FERROUS ION AND FREE ACID IN RARE EARTH PROCESSING SOLUTIONS USING TITRATION METHODS¬†,Emma Riley,2016-01-27
+890,Internal technical report/Rapport technique interne,REE-Preparation of a rare earth certified reference material,Maureen Leaver,2016-01-20
+891,Internal technical report/Rapport technique interne,Increasing REEs leaching from apatite by bioleaching microorganisms in phosphate,Lyne Lortie,2015-10-14
+892,Internal technical report/Rapport technique interne,Operator‚Äôs Manual for the GigE CanCam Software,Ken Judge,2015-10-07
+893,Internal technical report/Rapport technique interne,Testing and evaluation of a modular thermal transfer unit for mine air conditioning,Gary Li,2015-09-25
+894,Internal technical report/Rapport technique interne,Characterization and potential environmental uses of red mud-modified biochars,Suzanne Beauchemin,2015-07-16
+895,Internal technical report/Rapport technique interne,Radium Remobilization in Submerged Uranium Tailings - A Literature Review,John Kwong,2015-07-09
+896,Internal technical report/Rapport technique interne,Characterization of radioactive surrogated waste,J.F. Fiset,2015-06-05
+897,Internal technical report/Rapport technique interne,Proficiency Testing Mineral for Mineral Analysis Laboratories - April 2015 cycle (final report),Diane Desroches,2015-05-29
+898,Internal technical report/Rapport technique interne,Commissioning of the Thunder Scientific 2500 Humidity Generator Final,Kevin Butler,2015-05-25
+899,Internal technical report/Rapport technique interne,Sequential Extraction of Radium from Uranium Mine Tailings,"Fiset, Jean-Francois",2015-03-30
+900,Internal technical report/Rapport technique interne,RTS-5:  Preparation of a Certified Reference Material,"Leaver, Maureen",2015-03-23
+901,Internal technical report/Rapport technique interne,Increasing REE leaching through phosphate assimilation from apatite by bioleaching microorganisms in phosphate‚Äìfree growth media,"Lortie, Lyne",2015-03-20
+902,Internal technical report/Rapport technique interne,The Rare Earth Elements Projects - CanmetMINING Research Summary,"Desforges, Melissa",2015-02-25
+903,Internal technical report/Rapport technique interne,Important Metal Carriers in the Athabasca Oil Sands Region: A Mineralogical Investigation,"Thibault, Yves",2014-12-08
+904,Internal technical report/Rapport technique interne,Different Aspects of Mineralogical Characterization Applied to the Development of Rare Earth Elements (REE) Resources,"Thibault, Yves",2014-08-21
+905,Internal technical report/Rapport technique interne,Sales Review for FY 2013-2014 for the Canadian Certified Reference Materials Project,"Salley, Joseph",2014-07-28
+906,Internal technical report/Rapport technique interne,Biological Recovery of Freshwater and Marine Habitats Containing Submerged Reactive Mine Tailings,"Dave, Nand",2014-07-15
+907,Internal technical report/Rapport technique interne,PTC-1b:  Preparation of a Certified Reference Material,"Leaver, Maureen",2014-05-06
+908,Internal technical report/Rapport technique interne,Adapting the Freshwater Transformation/Dissolution Protocol for Metals and Metal Compounds to Marine Systems: A Response to International Maritime Organization Hazard Classification Requirements,"Huntsman-Mapila, Philippa",2014-04-17
+909,Internal technical report/Rapport technique interne,Metal mobilization in waste rocks-toxicity testing using a modified Daphnia magna lethality test.,"Rickwood, Carrie",2014-04-01
+910,Internal technical report/Rapport technique interne,The current situation of radioactive waste in Canada,"Bouzoubaa, Nabil",2014-04-01
+911,Internal technical report/Rapport technique interne,A Weight of Evidence Approach to Assess the Cycling of Oil Sands Relevant Metals,"Huntsman-Mapila, Philippa",2014-03-25
+912,Internal technical report/Rapport technique interne,Development of a 3-Line Profiler for Shear Box Samples,"Judge, Ken",2014-03-19
+913,Internal technical report/Rapport technique interne,A Weight of Evidence Approach to Assess the Cycling of Oil Sands Relevant Metals,P. Huntsman-Mapila,2014-02-25
+914,Internal technical report/Rapport technique interne,Application Methodology of a Hot Gas Plasma Torch for Production Fragmentation of Gold Bearing Quartz Veins,M.C. B√©tournay,2013-12-13
+915,Internal technical report/Rapport technique interne,Design of a New Plasma Torch Starter for Mining Application,N. Kandev,2013-12-13
+916,Internal technical report/Rapport technique interne,Initial Underground Test Results of Thermal Fragmentation of Gold Bearing Quartz Veins,M.C. B√©tournay,2013-12-13
+917,Internal technical report/Rapport technique interne,Mine Hydrogen Distribution Leak Test Chamber Modelling Results,M.C. B√©tournay,2013-12-13
+918,Internal technical report/Rapport technique interne,Mine Hydrogen Distribution Leak Test Chamber Test Outline and Test Protocols,M.C. B√©tournay,2013-12-13
+919,Internal technical report/Rapport technique interne,Mine Hydrogen Distribution Leak Test Chamber Testing Equipment,M.C. B√©tournay,2013-12-13
+920,Internal technical report/Rapport technique interne,Production Mining Thermal Fragmentation Plasma Torch Equipment and Operation,M.C. B√©tournay,2013-12-13
+921,Internal technical report/Rapport technique interne,Surface Test Chamber Design for Simulating Underground Hydrogen Distribution Leak Behaviour,M.C. B√©tournay,2013-12-13
+922,Internal technical report/Rapport technique interne,A Weight of Evidence Approach to Assess the Cycling of Oil Sands Relevant Metals,C.J. Rickwood,2013-10-18
+923,Internal technical report/Rapport technique interne,Metal mobilization in waste rocks ‚Äì toxicity testing using a modified Daphnia magna lethality test,C.J. Rickwood,2013-10-18
+924,Internal technical report/Rapport technique interne,CanmetMINING and the Mining Association of Canada Marine Hazard Classification Workshop Report,P. Huntsman-Mapila,2013-10-09
+925,Internal technical report/Rapport technique interne,Torche au plasma ‚Äì Infrastructure et √©quipement √† la Mine-laboratoire,G. LeBlanc,2013-10-03
+926,Internal technical report/Rapport technique interne,Proposal for a Four Year Production Plan for Canadian Certified Reference Materials Project,"M.E. Leaver, J. Salley",2013-09-12
+927,Internal technical report/Rapport technique interne,Sales Review for FY 2012-2013 for the Canadian Certified Reference Materials Project,"M.E. Leaver, J. Salley",2013-09-12
+928,Internal technical report/Rapport technique interne,Determining the Effect of a Reduced YCT Diet on the Ceriodaphnia dubi Sub-lethal Toxicity Test in Soft Water in Relation to the MMER-EEM Program,M. King,2013-07-05

@@ -10,6 +10,12 @@ namespace PublicationsWebService.DataAccess
     public class PublicationsContext
            : DbContext
     {
+
+        public PublicationsContext(string connectionString)
+            : base(connectionString)
+        {
+        }
+
         public DbSet<Publication> Publications
         { get; set; }
 

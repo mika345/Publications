@@ -10,7 +10,7 @@ namespace PublicationsWebService.Models
     public class Publication
     {
         public int PublicationID { get; set; }
-        public int PublicationTypeID { get; set; }
+        public string PublicationType { get; set; }
         public string Title { get; set; }
         public string Authors { get; set; }
         public DateTime CreationDate { get; set; }

@@ -15,7 +15,8 @@ namespace PublicationsWebService.Controllers
 {
     public class PublicationController : ApiController
     {
-        private PublicationsContext db = new PublicationsContext();
+        //create a new isntance of the publications context and pass in the database connection string
+        private PublicationsContext db = new PublicationsContext("DefaultConnection");
 
         /// <summary>
         /// Gets the list of publications
