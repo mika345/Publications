@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { PublicationsComponent } from './publications/publications.component';
 import { PerTypeComponent } from './per-type/per-type.component';
 import { NgxEchartsModule } from 'ngx-echarts';
+import { PerTypeService } from './services/per-type.service';
+import { PublicationService } from './services/publication.service';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,7 @@ import { NgxEchartsModule } from 'ngx-echarts';
       echarts: () => import('echarts'),
     }),
   ],
-  providers: [],
+  providers: [PerTypeService, PublicationService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

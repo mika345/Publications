@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { EChartsOption } from 'echarts';
+import { SerieModel } from "../model/chart.model";
 
 @Component({
   selector: 'app-per-type',
@@ -8,6 +9,23 @@ import { EChartsOption } from 'echarts';
 })
 export class PerTypeComponent implements OnInit {
 
+  serieData: SerieModel = {
+        name: 'Publications Per Publication Type',
+        type: 'pie',
+        radius: [30, 110],
+        roseType: 'area',
+        data: [
+          { value: 10, name: 'Books & Book Chapters/ Livres et Chapitres' },
+          { value: 5, name: 'Consultant Report/ Raport de consultant' },
+          { value: 15, name: 'Cost Recovery (CR) report / Rapport de recouvrement des coûts' },
+          { value: 25, name: 'Journal/ Revue scientifique' },
+          { value: 20, name: 'Other Publication/ Autres publications' },
+          { value: 35, name: 'Poster/Affiche' },
+          { value: 30, name: 'Presentation/Présentation' },
+          { value: 40, name: 'Conference Proceedings/Actes de conférence' },
+          { value: 40, name: 'Internal technical report/Rapport technique interne' }
+        ]
+  };
   theme = "";
   options = {
     title: {
@@ -22,27 +40,10 @@ export class PerTypeComponent implements OnInit {
     legend: {
       x: 'center',
       y: 'bottom',
-      data: ['rose1', 'rose2', 'rose3', 'rose4', 'rose5', 'rose6', 'rose7', 'rose8']
+      data: ['Books & Book Chapters/ Livres et Chapitres', 'Consultant Report/ Raport de consultant', 'Cost Recovery (CR) report / Rapport de recouvrement des coûts', 'Journal/ Revue scientifique', 'Other Publication/ Autres publications', 'Poster / Affiche', 'Presentation/Présentation', 'Conference Proceedings / Actes de conférence', 'Internal technical report/Rapport technique interne']
     },
     calculable: true,
-    series: [
-      {
-        name: 'area',
-        type: 'pie',
-        radius: [30, 110],
-        roseType: 'area',
-        data: [
-          { value: 10, name: 'rose1' },
-          { value: 5, name: 'rose2' },
-          { value: 15, name: 'rose3' },
-          { value: 25, name: 'rose4' },
-          { value: 20, name: 'rose5' },
-          { value: 35, name: 'rose6' },
-          { value: 30, name: 'rose7' },
-          { value: 40, name: 'rose8' }
-        ]
-      }
-    ]
+    series: this.serieData,
   };
 
 
